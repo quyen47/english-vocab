@@ -1,0 +1,314 @@
+{
+  "id": "graph",
+  "type": "root",
+  "meaning": "write, draw, record",
+  "origin": "Greek: graphein (to write, draw)",
+  "explanation": "The root **graph** comes from the Greek word *graphein*, meaning 'to write' or 'to draw'. It is found in many English words related to writing, drawing, recording, or representing visually.",
+  "level_note": "This root is commonly found in words ranging from B1 to C1 CEFR levels.",
+  "words": [
+    {
+      "word": "photograph",
+      "level": "B1",
+      "breakdown": "photo- + graph",
+      "parts": [
+        {
+          "part": "photo-",
+          "meaning": "ánh sáng (light)"
+        },
+        {
+          "part": "graph",
+          "meaning": "viết, vẽ, ghi lại (write, draw, record)"
+        }
+      ],
+      "logic": "photo- (ánh sáng) + graph (vẽ, ghi lại) = hành động vẽ hoặc ghi lại hình ảnh bằng ánh sáng.",
+      "meaning_vi": "ảnh chụp, bức ảnh",
+      "meaning_en": "A picture made using a camera, especially with a chemical process.",
+      "example": "She took a beautiful photograph of the sunset.",
+      "collocations": [
+        {
+          "phrase": "take a photograph",
+          "example": "We took many photographs on our trip."
+        },
+        {
+          "phrase": "old photograph",
+          "example": "I found an old photograph of my grandparents in the album."
+        },
+        {
+          "phrase": "digital photograph",
+          "example": "Most people prefer to store digital photographs on their computers."
+        }
+      ],
+      "forms": [
+        {
+          "word": "photographer",
+          "type": "n",
+          "example": "The photographer captured the perfect moment."
+        },
+        {
+          "word": "photography",
+          "type": "n",
+          "example": "He has a passion for wildlife photography."
+        },
+        {
+          "word": "photographic",
+          "type": "adj",
+          "example": "The museum exhibits a collection of photographic prints."
+        }
+      ]
+    },
+    {
+      "word": "autograph",
+      "level": "B1",
+      "breakdown": "auto- + graph",
+      "parts": [
+        {
+          "part": "auto-",
+          "meaning": "tự, bản thân (self)"
+        },
+        {
+          "part": "graph",
+          "meaning": "viết (write)"
+        }
+      ],
+      "logic": "auto- (tự) + graph (viết) = chữ viết của chính bản thân người đó.",
+      "meaning_vi": "chữ ký (của người nổi tiếng)",
+      "meaning_en": "A signature, especially that of a celebrity, written as a memento for an admirer.",
+      "example": "Fans waited for hours to get the singer's autograph.",
+      "collocations": [
+        {
+          "phrase": "sign an autograph",
+          "example": "The actor stopped to sign an autograph for a young fan."
+        },
+        {
+          "phrase": "get an autograph",
+          "example": "My dream is to get an autograph from my favorite author."
+        },
+        {
+          "phrase": "collect autographs",
+          "example": "Some people enjoy collecting autographs as a hobby."
+        }
+      ],
+      "forms": [
+        {
+          "word": "autograph",
+          "type": "v",
+          "example": "He autographed a copy of his new book for me."
+        }
+      ]
+    },
+    {
+      "word": "paragraph",
+      "level": "B1",
+      "breakdown": "para- + graph",
+      "parts": [
+        {
+          "part": "para-",
+          "meaning": "bên cạnh, gần (beside, near)"
+        },
+        {
+          "part": "graph",
+          "meaning": "viết (write)"
+        }
+      ],
+      "logic": "para- (bên cạnh) + graph (viết) = một phần chữ viết được đánh dấu hoặc tách ra ở bên cạnh (thường bằng cách thụt vào đầu dòng).",
+      "meaning_vi": "đoạn văn",
+      "meaning_en": "A distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering.",
+      "example": "The essay should have at least three paragraphs.",
+      "collocations": [
+        {
+          "phrase": "first paragraph",
+          "example": "Read the first paragraph carefully to understand the main idea."
+        },
+        {
+          "phrase": "new paragraph",
+          "example": "Start a new paragraph when you change topics in your essay."
+        },
+        {
+          "phrase": "introductory paragraph",
+          "example": "The introductory paragraph sets the stage for the entire report."
+        }
+      ],
+      "forms": []
+    },
+    {
+      "word": "graphic",
+      "level": "B2",
+      "breakdown": "graph + -ic",
+      "parts": [
+        {
+          "part": "graph",
+          "meaning": "vẽ, thể hiện (draw, represent)"
+        },
+        {
+          "part": "-ic",
+          "meaning": "thuộc về (relating to)"
+        }
+      ],
+      "logic": "graph (vẽ, thể hiện) + -ic (thuộc về) = thuộc về việc vẽ, thể hiện bằng hình ảnh; hoặc sống động, rõ ràng như được vẽ ra trước mắt.",
+      "meaning_vi": "đồ họa; sống động, rõ ràng",
+      "meaning_en": "Relating to visual art, especially drawing or engraving; giving clear and vivid details.",
+      "example": "The movie contained some graphic scenes of violence.",
+      "collocations": [
+        {
+          "phrase": "graphic design",
+          "example": "She studied graphic design at university and now works as a web designer."
+        },
+        {
+          "phrase": "graphic details",
+          "example": "The news report provided graphic details of the accident."
+        },
+        {
+          "phrase": "graphic novel",
+          "example": "Many young people enjoy reading graphic novels, which are like long comic books."
+        }
+      ],
+      "forms": [
+        {
+          "word": "graphics",
+          "type": "n",
+          "example": "The computer game has excellent graphics."
+        },
+        {
+          "word": "graphically",
+          "type": "adv",
+          "example": "He described the events graphically, making everyone feel as if they were there."
+        }
+      ]
+    },
+    {
+      "word": "biography",
+      "level": "B2",
+      "breakdown": "bio- + graph + -y",
+      "parts": [
+        {
+          "part": "bio-",
+          "meaning": "sự sống, cuộc đời (life)"
+        },
+        {
+          "part": "graph",
+          "meaning": "viết (write)"
+        },
+        {
+          "part": "-y",
+          "meaning": "hậu tố tạo danh từ (noun suffix)"
+        }
+      ],
+      "logic": "bio- (sự sống, cuộc đời) + graph (viết) + -y (danh từ) = một tác phẩm viết về cuộc đời của ai đó.",
+      "meaning_vi": "tiểu sử",
+      "meaning_en": "An account of someone's life written by someone else.",
+      "example": "I'm currently reading a fascinating biography of Steve Jobs.",
+      "collocations": [
+        {
+          "phrase": "write a biography",
+          "example": "He spent years researching to write a biography of the famous explorer."
+        },
+        {
+          "phrase": "authorized biography",
+          "example": "This is the authorized biography of the Queen, giving an official account of her life."
+        },
+        {
+          "phrase": "historical biography",
+          "example": "She enjoys reading historical biographies to learn about past figures."
+        }
+      ],
+      "forms": [
+        {
+          "word": "biographer",
+          "type": "n",
+          "example": "The biographer interviewed hundreds of people for his book."
+        },
+        {
+          "word": "biographical",
+          "type": "adj",
+          "example": "The film is based on biographical events from her early life."
+        }
+      ]
+    },
+    {
+      "word": "telegraph",
+      "level": "B2",
+      "breakdown": "tele- + graph",
+      "parts": [
+        {
+          "part": "tele-",
+          "meaning": "xa, từ xa (far, distant)"
+        },
+        {
+          "part": "graph",
+          "meaning": "viết, ghi lại (write, record)"
+        }
+      ],
+      "logic": "tele- (xa) + graph (viết, ghi lại) = thiết bị dùng để viết hoặc gửi thông điệp từ xa.",
+      "meaning_vi": "máy điện báo; điện báo (tin nhắn)",
+      "meaning_en": "An apparatus for sending messages over a distance by converting electric impulses into signals.",
+      "example": "In the past, people sent important messages by telegraph.",
+      "collocations": [
+        {
+          "phrase": "send a telegraph",
+          "example": "My grandparents used to send a telegraph to communicate urgent news."
+        },
+        {
+          "phrase": "telegraph office",
+          "example": "Before phones, people would go to the telegraph office to send messages."
+        },
+        {
+          "phrase": "telegraph service",
+          "example": "The telegraph service was crucial for international communication in the 19th century."
+        }
+      ],
+      "forms": [
+        {
+          "word": "telegraph",
+          "type": "v",
+          "example": "They telegraphed the news of their safe arrival to their relatives."
+        },
+        {
+          "word": "telegraphic",
+          "type": "adj",
+          "example": "He sent a short, telegraphic message."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "graph",
+    "meaning": "viết, vẽ, ghi lại (write, draw, record)",
+    "table": [
+      {
+        "prefix": "photo-",
+        "prefix_meaning": "ánh sáng",
+        "result": "photograph"
+      },
+      {
+        "prefix": "auto-",
+        "prefix_meaning": "tự, bản thân",
+        "result": "autograph"
+      },
+      {
+        "prefix": "para-",
+        "prefix_meaning": "bên cạnh",
+        "result": "paragraph"
+      },
+      {
+        "prefix": "tele-",
+        "prefix_meaning": "xa, từ xa",
+        "result": "telegraph"
+      },
+      {
+        "prefix": "bio-",
+        "prefix_meaning": "sự sống, cuộc đời",
+        "result": "biography"
+      },
+      {
+        "suffix": "-ic",
+        "suffix_meaning": "thuộc về",
+        "result": "graphic"
+      },
+      {
+        "suffix": "-y",
+        "suffix_meaning": "hậu tố tạo danh từ",
+        "result": "biography"
+      }
+    ]
+  }
+}

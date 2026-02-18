@@ -1,0 +1,329 @@
+{
+  "id": "cept",
+  "type": "root",
+  "meaning": "to take, to seize, to hold",
+  "origin": "Latin: capere, captum",
+  "explanation": "The root **cept** comes from the Latin verb **capere**, meaning 'to take' or 'to seize'. It appears in many English words, often with a slight variation in spelling like **capt**, **cip**, or **ceive**, but always carrying the core idea of taking, receiving, or understanding.",
+  "level_note": "Words derived from 'cept' commonly range from B1 to C1 on the CEFR scale.",
+  "words": [
+    {
+      "word": "accept",
+      "level": "B1",
+      "breakdown": "ad- + cept",
+      "parts": [
+        {
+          "part": "ad-",
+          "meaning": "hướng tới, đến (to, toward)"
+        },
+        {
+          "part": "cept",
+          "meaning": "lấy, nhận (take, receive)"
+        }
+      ],
+      "logic": "Khi bạn 'lấy' hoặc 'nhận' 'hướng tới' một điều gì đó, bạn đang đồng ý hoặc chấp nhận nó.",
+      "meaning_vi": "chấp nhận, đồng ý",
+      "meaning_en": "to agree to receive something or to approve of something",
+      "example": "She accepted the job offer immediately.",
+      "collocations": [
+        {
+          "phrase": "accept an invitation",
+          "example": "He was happy to accept an invitation to the party."
+        },
+        {
+          "phrase": "accept a challenge",
+          "example": "Are you ready to accept a challenge and prove yourself?"
+        },
+        {
+          "phrase": "accept responsibility",
+          "example": "The company decided to accept responsibility for the error."
+        }
+      ],
+      "forms": [
+        {
+          "word": "acceptance",
+          "type": "n",
+          "example": "Her acceptance of the award was met with applause."
+        },
+        {
+          "word": "acceptable",
+          "type": "adj",
+          "example": "The terms of the contract were acceptable to both parties."
+        }
+      ]
+    },
+    {
+      "word": "except",
+      "level": "B1",
+      "breakdown": "ex- + cept",
+      "parts": [
+        {
+          "part": "ex-",
+          "meaning": "ra ngoài, loại trừ (out, away from)"
+        },
+        {
+          "part": "cept",
+          "meaning": "lấy, nắm giữ (take, seize)"
+        }
+      ],
+      "logic": "Khi bạn 'lấy' một cái gì đó 'ra ngoài' khỏi một nhóm, bạn đang loại trừ nó.",
+      "meaning_vi": "ngoại trừ, trừ ra",
+      "meaning_en": "not including; other than",
+      "example": "Everyone was at the meeting except for John.",
+      "collocations": [
+        {
+          "phrase": "except for",
+          "example": "The store is open every day except for Sunday."
+        },
+        {
+          "phrase": "no exception",
+          "example": "Every rule has its exceptions, but this one has no exception."
+        },
+        {
+          "phrase": "with the exception of",
+          "example": "All students passed the exam, with the exception of one."
+        }
+      ],
+      "forms": [
+        {
+          "word": "exception",
+          "type": "n",
+          "example": "The new policy applies to everyone, without exception."
+        },
+        {
+          "word": "exceptional",
+          "type": "adj",
+          "example": "She showed exceptional talent at a young age."
+        }
+      ]
+    },
+    {
+      "word": "concept",
+      "level": "B2",
+      "breakdown": "con- + cept",
+      "parts": [
+        {
+          "part": "con-",
+          "meaning": "cùng nhau, với (together, with)"
+        },
+        {
+          "part": "cept",
+          "meaning": "lấy, nắm bắt (take, grasp)"
+        }
+      ],
+      "logic": "Khi bạn 'lấy' hoặc 'nắm bắt' các ý tưởng 'cùng nhau' để hình thành một ý tưởng chung, bạn tạo ra một khái niệm.",
+      "meaning_vi": "khái niệm, ý niệm",
+      "meaning_en": "an abstract idea; a general notion",
+      "example": "The concept of time travel is fascinating to many scientists.",
+      "collocations": [
+        {
+          "phrase": "grasp a concept",
+          "example": "It took him a while to grasp the difficult concept."
+        },
+        {
+          "phrase": "develop a concept",
+          "example": "The team is working to develop a new concept for the product."
+        },
+        {
+          "phrase": "key concept",
+          "example": "Understanding this key concept is vital for the whole course."
+        }
+      ],
+      "forms": [
+        {
+          "word": "conceptual",
+          "type": "adj",
+          "example": "The design is still in the conceptual stage."
+        },
+        {
+          "word": "conceive",
+          "type": "v",
+          "example": "He conceived the idea for the novel while on vacation."
+        }
+      ]
+    },
+    {
+      "word": "deceptive",
+      "level": "B2",
+      "breakdown": "de- + cept + -ive",
+      "parts": [
+        {
+          "part": "de-",
+          "meaning": "xuống, rời khỏi, đảo ngược (down, away from, reversal)"
+        },
+        {
+          "part": "cept",
+          "meaning": "lấy, nắm bắt (take, seize)"
+        },
+        {
+          "part": "-ive",
+          "meaning": "tính từ (adjective suffix)"
+        }
+      ],
+      "logic": "Khi điều gì đó 'lấy' hoặc 'nắm bắt' sự thật 'xuống' hoặc 'đi lệch' khỏi nó, nó đang lừa dối, do đó là 'deceptive'.",
+      "meaning_vi": "lừa dối, đánh lừa",
+      "meaning_en": "giving a misleading impression",
+      "example": "The ad was deceptive, making the product seem much better than it was.",
+      "collocations": [
+        {
+          "phrase": "deceptive appearance",
+          "example": "Despite her deceptive appearance, she was very strong."
+        },
+        {
+          "phrase": "deceptive practices",
+          "example": "The company was accused of deceptive practices in its advertising."
+        },
+        {
+          "phrase": "highly deceptive",
+          "example": "His calm demeanor can be highly deceptive."
+        }
+      ],
+      "forms": [
+        {
+          "word": "deceive",
+          "type": "v",
+          "example": "He tried to deceive his parents about his grades."
+        },
+        {
+          "word": "deception",
+          "type": "n",
+          "example": "The whole scheme was a clever deception."
+        }
+      ]
+    },
+    {
+      "word": "intercept",
+      "level": "C1",
+      "breakdown": "inter- + cept",
+      "parts": [
+        {
+          "part": "inter-",
+          "meaning": "giữa, ở giữa (between, among)"
+        },
+        {
+          "part": "cept",
+          "meaning": "lấy, nắm giữ (take, seize)"
+        }
+      ],
+      "logic": "Khi bạn 'lấy' hoặc 'nắm giữ' một cái gì đó 'ở giữa' đường đi của nó, bạn đang chặn nó.",
+      "meaning_vi": "chặn lại, đánh chặn",
+      "meaning_en": "to stop or seize (something or someone) on the way to a destination",
+      "example": "The police intercepted the package before it reached its intended recipient.",
+      "collocations": [
+        {
+          "phrase": "intercept a pass",
+          "example": "The defender managed to intercept a pass in the final minute."
+        },
+        {
+          "phrase": "intercept a message",
+          "example": "Intelligence agencies often try to intercept encrypted messages."
+        },
+        {
+          "phrase": "intercept a signal",
+          "example": "They used advanced technology to intercept the satellite signal."
+        }
+      ],
+      "forms": [
+        {
+          "word": "interception",
+          "type": "n",
+          "example": "The interception of the enemy's plans saved many lives."
+        },
+        {
+          "word": "interceptor",
+          "type": "n",
+          "example": "Fighter interceptors were scrambled to meet the incoming threat."
+        }
+      ]
+    },
+    {
+      "word": "susceptible",
+      "level": "C1",
+      "breakdown": "sus- + cept + -ible",
+      "parts": [
+        {
+          "part": "sus-",
+          "meaning": "dưới, bên dưới (under, below)"
+        },
+        {
+          "part": "cept",
+          "meaning": "lấy, nhận (take, receive)"
+        },
+        {
+          "part": "-ible",
+          "meaning": "có thể (able to be)"
+        }
+      ],
+      "logic": "Khi bạn 'có thể' 'nhận' hoặc 'lấy' một cái gì đó 'dưới' ảnh hưởng hoặc tác động của nó, bạn dễ bị tổn thương hoặc dễ bị ảnh hưởng bởi nó.",
+      "meaning_vi": "dễ bị tổn thương, dễ mắc phải, nhạy cảm với",
+      "meaning_en": "likely or liable to be influenced or harmed by a particular thing",
+      "example": "Young children are more susceptible to infections during winter.",
+      "collocations": [
+        {
+          "phrase": "susceptible to disease",
+          "example": "People with weakened immune systems are more susceptible to disease."
+        },
+        {
+          "phrase": "highly susceptible",
+          "example": "She is highly susceptible to flattery and compliments."
+        },
+        {
+          "phrase": "susceptible to change",
+          "example": "The climate of the region is highly susceptible to change."
+        }
+      ],
+      "forms": [
+        {
+          "word": "susceptibility",
+          "type": "n",
+          "example": "Her susceptibility to colds is a concern for her parents."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "cept",
+    "meaning": "lấy, nhận, nắm giữ (to take, to receive, to seize)",
+    "table": [
+      {
+        "prefix": "ad-",
+        "prefix_meaning": "hướng tới, đến (to, toward)",
+        "result": "accept"
+      },
+      {
+        "prefix": "ex-",
+        "prefix_meaning": "ra ngoài, loại trừ (out, away from)",
+        "result": "except"
+      },
+      {
+        "prefix": "con-",
+        "prefix_meaning": "cùng nhau, với (together, with)",
+        "result": "concept"
+      },
+      {
+        "prefix": "de-",
+        "prefix_meaning": "xuống, rời khỏi (down, away from, reversal)",
+        "result": "deceptive"
+      },
+      {
+        "prefix": "inter-",
+        "prefix_meaning": "giữa, ở giữa (between, among)",
+        "result": "intercept"
+      },
+      {
+        "prefix": "sus- (sub-)",
+        "prefix_meaning": "dưới, bên dưới (under, below)",
+        "result": "susceptible"
+      },
+      {
+        "suffix": "-ive",
+        "suffix_meaning": "tính từ (adjective suffix)",
+        "result": "deceptive"
+      },
+      {
+        "suffix": "-ible",
+        "suffix_meaning": "có thể (able to be)",
+        "result": "susceptible"
+      }
+    ]
+  }
+}

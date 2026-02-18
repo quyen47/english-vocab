@@ -1,0 +1,166 @@
+{
+  "name": "English Vocab Suggester",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "suggest-vocab",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "a1b2c3d4-1111-4aaa-bbbb-000000000001",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -224,
+        -128
+      ],
+      "webhookId": "suggest-vocab"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "models/gemini-2.5-flash",
+          "mode": "list",
+          "cachedResultName": "models/gemini-2.5-flash"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=You are an expert English language teacher specializing in etymology and morphology for Vietnamese learners.\n\nThe user is studying English vocabulary through {{ $json.body.type }}s (roots, prefixes, or suffixes).\n\nThey already have these {{ $json.body.type }}s in their study list:\n{{ $json.body.existing }}\n\n{{ $json.body.input ? 'The user typed: \"' + $json.body.input + '\". Suggest morphemes that match or relate to what they typed.' : 'Suggest new morphemes they should learn next.' }}\n\nRules:\n1. Suggest exactly 5 {{ $json.body.type }}s that are NOT in their existing list.\n2. Pick the most commonly used and useful ones for intermediate-advanced learners (B1-C1).\n3. If the user typed something, prioritize morphemes that:\n   - Match or contain what they typed\n   - Are related in meaning or origin\n   - Sound similar (to help them find what they meant even if they misspelled)\n4. For each suggestion, provide the morpheme ID and its core meaning.\n5. Order by usefulness/frequency (most useful first).\n\nYou MUST respond with ONLY valid JSON (no markdown, no explanation). Use this exact structure:\n\n{\n  \"suggestions\": [\n    { \"id\": \"<morpheme>\", \"meaning\": \"<short meaning in English>\" },\n    { \"id\": \"<morpheme>\", \"meaning\": \"<short meaning in English>\" },\n    { \"id\": \"<morpheme>\", \"meaning\": \"<short meaning in English>\" },\n    { \"id\": \"<morpheme>\", \"meaning\": \"<short meaning in English>\" },\n    { \"id\": \"<morpheme>\", \"meaning\": \"<short meaning in English>\" }\n  ]\n}\n\nIMPORTANT:\n- Respond with ONLY the raw JSON object, no markdown code fences\n- For roots: use the Latin/Greek root form (e.g., \"rupt\", \"scrib\", \"ject\")\n- For prefixes: include the hyphen (e.g., \"un-\", \"re-\", \"pre-\")\n- For suffixes: include the hyphen (e.g., \"-tion\", \"-ment\", \"-able\")\n- Keep meanings concise (2-4 words max)"
+            }
+          ]
+        },
+        "simplify": false,
+        "jsonOutput": true,
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.googleGemini",
+      "typeVersion": 1.1,
+      "position": [
+        -48,
+        -128
+      ],
+      "id": "a1b2c3d4-1111-4aaa-bbbb-000000000002",
+      "name": "Gemini - Suggest Morphemes",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "7uOEKdy9M4NkQF7v",
+          "name": "Google Gemini(PaLM) Api account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse Gemini response and extract suggestions JSON\nconst input = $input.first();\nlet content;\n\ntry {\n  let rawText;\n  const d = input.json;\n  if (d.candidates && d.candidates[0]?.content?.parts?.[0]?.text) {\n    rawText = d.candidates[0].content.parts[0].text;\n  } else {\n    rawText = d.output || d.message?.content || d.text || JSON.stringify(d);\n  }\n\n  if (typeof rawText === 'string') {\n    const cleaned = rawText.replace(/```json\\n?/g, '').replace(/```\\n?/g, '').trim();\n    content = JSON.parse(cleaned);\n  } else {\n    content = rawText;\n  }\n} catch (e) {\n  const d = input.json;\n  let fallback = '';\n  if (d.candidates && d.candidates[0]?.content?.parts?.[0]?.text) {\n    fallback = d.candidates[0].content.parts[0].text;\n  } else {\n    fallback = d.output || d.message?.content || d.text || '';\n  }\n  const jsonMatch = String(fallback).match(/\\{[\\s\\S]*\\}/);\n  if (jsonMatch) {\n    content = JSON.parse(jsonMatch[0]);\n  } else {\n    throw new Error('Could not parse response: ' + String(fallback).substring(0, 300));\n  }\n}\n\n// Validate structure\nif (!content.suggestions || !Array.isArray(content.suggestions)) {\n  throw new Error('Missing suggestions array. Got keys: ' + Object.keys(content).join(', '));\n}\n\n// Ensure each suggestion has id and meaning\ncontent.suggestions = content.suggestions\n  .filter(s => s.id && s.meaning)\n  .slice(0, 5);\n\nreturn [{ json: content }];"
+      },
+      "id": "a1b2c3d4-1111-4aaa-bbbb-000000000003",
+      "name": "Parse Suggestions",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        256,
+        -128
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}",
+        "options": {
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Type",
+                "value": "application/json"
+              }
+            ]
+          }
+        }
+      },
+      "id": "a1b2c3d4-1111-4aaa-bbbb-000000000004",
+      "name": "Respond Success",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        496,
+        -128
+      ]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify({ error: $json.message || 'Suggestion failed', suggestions: [] }) }}",
+        "options": {
+          "responseCode": 500,
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Type",
+                "value": "application/json"
+              }
+            ]
+          }
+        }
+      },
+      "id": "a1b2c3d4-1111-4aaa-bbbb-000000000005",
+      "name": "Respond Error",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        496,
+        96
+      ]
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Gemini - Suggest Morphemes",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Gemini - Suggest Morphemes": {
+      "main": [
+        [
+          {
+            "node": "Parse Suggestions",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Suggestions": {
+      "main": [
+        [
+          {
+            "node": "Respond Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "b2c3d4e5-2222-5bbb-cccc-111111111111",
+  "meta": {
+    "instanceId": "ceb61508a604f092c6f654129f0f013334a4ca22d34ce46dfc090cc80257323f"
+  },
+  "tags": []
+}

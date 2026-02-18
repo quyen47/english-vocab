@@ -1,0 +1,276 @@
+{
+  "id": "able",
+  "type": "suffix",
+  "meaning": "capable of; worthy of; suitable for; tending to",
+  "origin": "Old French: -able, from Latin: -abilis (adjective suffix)",
+  "explanation": "The suffix \"-able\" is used to form adjectives, often from verbs. It signifies that something **có thể** được thực hiện, **đáng để** được làm, hoặc **phù hợp để** làm một điều gì đó. It frequently implies possibility or suitability.",
+  "level_note": "Words with '-able' are common across B1-C1 CEFR levels, depending on the base word.",
+  "words": [
+    {
+      "word": "comfortable",
+      "level": "B1",
+      "breakdown": "comfort + -able",
+      "parts": [
+        {
+          "part": "comfort",
+          "meaning": "sự thoải mái, an ủi (ease, solace)"
+        },
+        {
+          "part": "-able",
+          "meaning": "có thể, có khả năng (capable of, suitable for)"
+        }
+      ],
+      "logic": "Khi 'comfort' (sự thoải mái) kết hợp với '-able' (có khả năng, phù hợp), nó tạo thành 'comfortable' mang ý nghĩa 'có khả năng mang lại sự thoải mái' hoặc 'cảm thấy thoải mái'.",
+      "meaning_vi": "thoải mái, dễ chịu",
+      "meaning_en": "providing physical ease and relaxation; feeling relaxed",
+      "example": "I always feel comfortable in my new bed.",
+      "collocations": [
+        {
+          "phrase": "feel comfortable",
+          "example": "Do you feel comfortable talking about it?"
+        },
+        {
+          "phrase": "comfortable shoes",
+          "example": "She always wears comfortable shoes for walking."
+        },
+        {
+          "phrase": "make someone comfortable",
+          "example": "Please sit down and make yourself comfortable."
+        }
+      ],
+      "forms": [
+        {
+          "word": "comfort",
+          "type": "n",
+          "example": "The hotel offers great comfort to its guests."
+        },
+        {
+          "word": "comfort",
+          "type": "v",
+          "example": "She tried to comfort the crying child."
+        },
+        {
+          "word": "uncomfortable",
+          "type": "adj",
+          "example": "I felt uncomfortable in the crowded room."
+        }
+      ]
+    },
+    {
+      "word": "understandable",
+      "level": "B1",
+      "breakdown": "understand + -able",
+      "parts": [
+        {
+          "part": "understand",
+          "meaning": "hiểu (comprehend)"
+        },
+        {
+          "part": "-able",
+          "meaning": "có thể, có khả năng (capable of)"
+        }
+      ],
+      "logic": "Gốc 'understand' (hiểu) kết hợp với '-able' (có thể) tạo thành 'understandable', nghĩa là 'có thể hiểu được' hoặc 'dễ hiểu'.",
+      "meaning_vi": "dễ hiểu, có thể hiểu được",
+      "meaning_en": "able to be understood; comprehensible",
+      "example": "Her reasons for being upset were completely understandable.",
+      "collocations": [
+        {
+          "phrase": "perfectly understandable",
+          "example": "It's perfectly understandable that you're nervous."
+        },
+        {
+          "phrase": "quite understandable",
+          "example": "His hesitation was quite understandable."
+        },
+        {
+          "phrase": "completely understandable",
+          "example": "Their decision to leave was completely understandable."
+        }
+      ],
+      "forms": [
+        {
+          "word": "understand",
+          "type": "v",
+          "example": "I don't understand what you mean."
+        },
+        {
+          "word": "understanding",
+          "type": "n",
+          "example": "We need to reach a mutual understanding."
+        },
+        {
+          "word": "understandably",
+          "type": "adv",
+          "example": "Understandably, she was very sad."
+        }
+      ]
+    },
+    {
+      "word": "enjoyable",
+      "level": "B1",
+      "breakdown": "enjoy + -able",
+      "parts": [
+        {
+          "part": "enjoy",
+          "meaning": "thưởng thức, tận hưởng (take pleasure in)"
+        },
+        {
+          "part": "-able",
+          "meaning": "có thể, đáng để (capable of, worthy of)"
+        }
+      ],
+      "logic": "Từ 'enjoy' (thưởng thức) kết hợp với '-able' (có thể, đáng để) tạo thành 'enjoyable', mang ý nghĩa 'có thể/đáng để thưởng thức', tức là 'thú vị, mang lại niềm vui'.",
+      "meaning_vi": "thú vị, đáng tận hưởng",
+      "meaning_en": "giving delight or pleasure",
+      "example": "We had a very enjoyable evening at the concert.",
+      "collocations": [
+        {
+          "phrase": "highly enjoyable",
+          "example": "The movie was highly enjoyable from start to finish."
+        },
+        {
+          "phrase": "an enjoyable experience",
+          "example": "Learning new things is often an enjoyable experience."
+        },
+        {
+          "phrase": "make something enjoyable",
+          "example": "The teacher always tries to make lessons enjoyable for students."
+        }
+      ],
+      "forms": [
+        {
+          "word": "enjoy",
+          "type": "v",
+          "example": "I really enjoy reading historical novels."
+        },
+        {
+          "word": "enjoyment",
+          "type": "n",
+          "example": "He gets a lot of enjoyment from gardening."
+        },
+        {
+          "word": "unenjoyable",
+          "type": "adj",
+          "example": "The long wait made the trip unenjoyable."
+        }
+      ]
+    },
+    {
+      "word": "reliable",
+      "level": "B2",
+      "breakdown": "rely + -able",
+      "parts": [
+        {
+          "part": "rely",
+          "meaning": "dựa vào, tin cậy (depend on, trust)"
+        },
+        {
+          "part": "-able",
+          "meaning": "có thể, đáng để (capable of, worthy of)"
+        }
+      ],
+      "logic": "Gốc 'rely' (tin cậy) kết hợp với '-able' (có thể, đáng để) tạo thành 'reliable', mang ý nghĩa 'có thể/đáng để tin cậy được'.",
+      "meaning_vi": "đáng tin cậy, đáng tin",
+      "meaning_en": "able to be relied on; dependable",
+      "example": "We need a reliable car for our long journeys.",
+      "collocations": [
+        {
+          "phrase": "reliable source",
+          "example": "Always check information from a reliable source."
+        },
+        {
+          "phrase": "reliable information",
+          "example": "This report provides reliable information on the market."
+        },
+        {
+          "phrase": "highly reliable",
+          "example": "Our new system is highly reliable and rarely fails."
+        }
+      ],
+      "forms": [
+        {
+          "word": "rely",
+          "type": "v",
+          "example": "You can rely on me to help you."
+        },
+        {
+          "word": "reliability",
+          "type": "n",
+          "example": "The reliability of the data is crucial for our research."
+        },
+        {
+          "word": "unreliable",
+          "type": "adj",
+          "example": "The old clock is very unreliable."
+        }
+      ]
+    },
+    {
+      "word": "sustainable",
+      "level": "C1",
+      "breakdown": "sustain + -able",
+      "parts": [
+        {
+          "part": "sustain",
+          "meaning": "duy trì, chống đỡ (maintain, support)"
+        },
+        {
+          "part": "-able",
+          "meaning": "có thể, có khả năng (capable of)"
+        }
+      ],
+      "logic": "Từ 'sustain' (duy trì) kết hợp với '-able' (có thể) tạo thành 'sustainable', nghĩa là 'có thể duy trì được lâu dài mà không gây hại', đặc biệt trong ngữ cảnh môi trường và phát triển.",
+      "meaning_vi": "bền vững, có thể duy trì được",
+      "meaning_en": "able to be maintained at a certain rate or level; causing little or no damage to the environment and therefore able to continue for a long time",
+      "example": "The company is committed to sustainable development.",
+      "collocations": [
+        {
+          "phrase": "sustainable development",
+          "example": "Sustainable development aims to meet the needs of the present without compromising the future."
+        },
+        {
+          "phrase": "sustainable energy",
+          "example": "Solar power is a form of sustainable energy."
+        },
+        {
+          "phrase": "sustainable growth",
+          "example": "They are focused on achieving sustainable growth for the business."
+        }
+      ],
+      "forms": [
+        {
+          "word": "sustain",
+          "type": "v",
+          "example": "The bridge is designed to sustain heavy loads."
+        },
+        {
+          "word": "sustainability",
+          "type": "n",
+          "example": "Environmental sustainability is a global challenge."
+        },
+        {
+          "word": "unsustainable",
+          "type": "adj",
+          "example": "The current rate of consumption is unsustainable."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "able",
+    "meaning": "có thể, đáng để, phù hợp để",
+    "table": [
+      {
+        "prefix": "un-",
+        "prefix_meaning": "không, trái ngược",
+        "result": "unreliable, uncomfortable (thể hiện sự phủ định khả năng hoặc tính phù hợp)"
+      },
+      {
+        "suffix": "-ability",
+        "suffix_meaning": "khả năng, trạng thái (tạo danh từ từ tính từ -able)",
+        "result": "reliability, sustainability (biến tính từ thành danh từ chỉ thuộc tính/khả năng)"
+      }
+    ]
+  }
+}

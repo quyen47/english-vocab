@@ -35,7 +35,7 @@ export async function POST(request: Request) {
       body: JSON.stringify({
         type,
         input: input || '',
-        existing: existingIds,
+        existing: existingIds.join(', ') || 'none',
       }),
     });
 

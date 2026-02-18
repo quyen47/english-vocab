@@ -68,5 +68,15 @@
     "id": "scrib",
     "type": "root",
     "meaning": "to write"
+  },
+  {
+    "id": "cept",
+    "type": "root",
+    "meaning": "to take, to seize, to hold"
+  },
+  {
+    "id": "graph",
+    "type": "root",
+    "meaning": "to write, draw, record"
   }
 ]

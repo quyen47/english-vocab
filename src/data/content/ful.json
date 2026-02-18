@@ -1,0 +1,291 @@
+{
+  "id": "ful",
+  "type": "suffix",
+  "meaning": "full of, characterized by, tending to",
+  "origin": "Old English: -full, from full 'full'",
+  "explanation": "The suffix **-ful** is added to nouns or verbs to form adjectives, meaning 'full of' or 'characterized by' the quality of the root word. It can also indicate 'tending to' or 'able to' perform an action. This suffix is highly productive in English.",
+  "level_note": "Commonly found in words from CEFR B1 to C1 levels.",
+  "words": [
+    {
+      "word": "Helpful",
+      "level": "B1",
+      "breakdown": "help + -ful",
+      "parts": [
+        {
+          "part": "help",
+          "meaning": "giúp đỡ (to assist)"
+        },
+        {
+          "part": "-ful",
+          "meaning": "đầy, có tính chất (full of, characterized by)"
+        }
+      ],
+      "logic": "Từ 'help' (giúp đỡ) kết hợp với hậu tố '-ful' (đầy, có tính chất) tạo thành 'helpful', mang nghĩa 'đầy sự giúp đỡ', tức là 'có ích, hay giúp đỡ người khác'.",
+      "meaning_vi": "Có ích, hay giúp đỡ người khác",
+      "meaning_en": "Providing assistance or support; useful.",
+      "example": "She is always very helpful to new employees.",
+      "collocations": [
+        {
+          "phrase": "extremely helpful",
+          "example": "The map proved extremely helpful in finding our way."
+        },
+        {
+          "phrase": "helpful advice",
+          "example": "He gave me some helpful advice about my career."
+        },
+        {
+          "phrase": "helpful suggestions",
+          "example": "The manager appreciated all the helpful suggestions from the team."
+        }
+      ],
+      "forms": [
+        {
+          "word": "help",
+          "type": "v",
+          "example": "Can you help me with this box?"
+        },
+        {
+          "word": "help",
+          "type": "n",
+          "example": "Thank you for your help."
+        },
+        {
+          "word": "helpless",
+          "type": "adj",
+          "example": "The kitten looked helpless and alone."
+        }
+      ]
+    },
+    {
+      "word": "Beautiful",
+      "level": "B1",
+      "breakdown": "beauty + -ful",
+      "parts": [
+        {
+          "part": "beauty",
+          "meaning": "sắc đẹp (attractiveness)"
+        },
+        {
+          "part": "-ful",
+          "meaning": "đầy, có tính chất (full of, characterized by)"
+        }
+      ],
+      "logic": "Từ 'beauty' (sắc đẹp) kết hợp với hậu tố '-ful' (đầy, có tính chất) tạo thành 'beautiful', mang nghĩa 'đầy sắc đẹp', tức là 'đẹp'.",
+      "meaning_vi": "Đẹp, có vẻ đẹp",
+      "meaning_en": "Pleasing to the senses or mind aesthetically.",
+      "example": "The sunset over the ocean was absolutely beautiful.",
+      "collocations": [
+        {
+          "phrase": "absolutely beautiful",
+          "example": "Her singing voice is absolutely beautiful."
+        },
+        {
+          "phrase": "beautiful scenery",
+          "example": "They visited a country with beautiful scenery."
+        },
+        {
+          "phrase": "beautiful garden",
+          "example": "She spent hours tending her beautiful garden."
+        }
+      ],
+      "forms": [
+        {
+          "word": "beauty",
+          "type": "n",
+          "example": "True beauty comes from within."
+        },
+        {
+          "word": "beautifully",
+          "type": "adv",
+          "example": "She sings beautifully."
+        },
+        {
+          "word": "beautify",
+          "type": "v",
+          "example": "They are working to beautify the park."
+        }
+      ]
+    },
+    {
+      "word": "Successful",
+      "level": "B2",
+      "breakdown": "success + -ful",
+      "parts": [
+        {
+          "part": "success",
+          "meaning": "thành công (achievement of a goal)"
+        },
+        {
+          "part": "-ful",
+          "meaning": "đầy, có tính chất (full of, characterized by)"
+        }
+      ],
+      "logic": "Từ 'success' (thành công) kết hợp với hậu tố '-ful' (đầy, có tính chất) tạo thành 'successful', mang nghĩa 'đầy thành công', tức là 'thành công, đạt được kết quả mong muốn'.",
+      "meaning_vi": "Thành công, đạt được kết quả mong muốn",
+      "meaning_en": "Having achieved success; accomplishing an aim or purpose.",
+      "example": "The new marketing campaign was very successful.",
+      "collocations": [
+        {
+          "phrase": "highly successful",
+          "example": "She is a highly successful businesswoman."
+        },
+        {
+          "phrase": "successful career",
+          "example": "He had a long and successful career in law."
+        },
+        {
+          "phrase": "successful outcome",
+          "example": "We hope for a successful outcome to the negotiations."
+        }
+      ],
+      "forms": [
+        {
+          "word": "success",
+          "type": "n",
+          "example": "Hard work is key to success."
+        },
+        {
+          "word": "succeed",
+          "type": "v",
+          "example": "You need to work hard to succeed."
+        },
+        {
+          "word": "successfully",
+          "type": "adv",
+          "example": "He successfully completed the project."
+        }
+      ]
+    },
+    {
+      "word": "Thoughtful",
+      "level": "B2",
+      "breakdown": "thought + -ful",
+      "parts": [
+        {
+          "part": "thought",
+          "meaning": "suy nghĩ (act of thinking)"
+        },
+        {
+          "part": "-ful",
+          "meaning": "đầy, có tính chất (full of, characterized by)"
+        }
+      ],
+      "logic": "Từ 'thought' (suy nghĩ) kết hợp với hậu tố '-ful' (đầy, có tính chất) tạo thành 'thoughtful', mang nghĩa 'đầy suy nghĩ' (tức là chu đáo, biết nghĩ cho người khác) hoặc 'suy tư, trầm ngâm'.",
+      "meaning_vi": "Chu đáo, biết nghĩ cho người khác; suy tư, trầm ngâm",
+      "meaning_en": "Showing consideration for others; given to or engaged in deep thought.",
+      "example": "It was very thoughtful of you to send flowers.",
+      "collocations": [
+        {
+          "phrase": "thoughtful gesture",
+          "example": "Sending a card was a thoughtful gesture."
+        },
+        {
+          "phrase": "thoughtful gift",
+          "example": "She received a thoughtful gift from her friend."
+        },
+        {
+          "phrase": "deeply thoughtful",
+          "example": "He looked deeply thoughtful as he considered the problem."
+        }
+      ],
+      "forms": [
+        {
+          "word": "thought",
+          "type": "n",
+          "example": "He was lost in thought."
+        },
+        {
+          "word": "think",
+          "type": "v",
+          "example": "I need to think about your offer."
+        },
+        {
+          "word": "thoughtfully",
+          "type": "adv",
+          "example": "She listened thoughtfully to his explanation."
+        }
+      ]
+    },
+    {
+      "word": "Resourceful",
+      "level": "C1",
+      "breakdown": "resource + -ful",
+      "parts": [
+        {
+          "part": "resource",
+          "meaning": "nguồn lực, tài nguyên (stock or supply of something)"
+        },
+        {
+          "part": "-ful",
+          "meaning": "đầy, có tính chất (full of, characterized by)"
+        }
+      ],
+      "logic": "Từ 'resource' (nguồn lực, tài nguyên) kết hợp với hậu tố '-ful' (đầy, có tính chất) tạo thành 'resourceful', mang nghĩa 'đầy nguồn lực', tức là 'tháo vát, có tài xoay xở, biết cách giải quyết vấn đề bằng những cách sáng tạo'.",
+      "meaning_vi": "Tháo vát, có tài xoay xở, giàu sáng kiến",
+      "meaning_en": "Having the ability to find quick and clever ways to overcome difficulties.",
+      "example": "A resourceful person can always find a solution, even in tough situations.",
+      "collocations": [
+        {
+          "phrase": "highly resourceful",
+          "example": "She's a highly resourceful manager who can handle any crisis."
+        },
+        {
+          "phrase": "resourceful individual",
+          "example": "He's known as a resourceful individual who gets things done."
+        },
+        {
+          "phrase": "resourceful approach",
+          "example": "They took a resourceful approach to solving the budget problem."
+        }
+      ],
+      "forms": [
+        {
+          "word": "resource",
+          "type": "n",
+          "example": "Time is a valuable resource."
+        },
+        {
+          "word": "resourceless",
+          "type": "adj",
+          "example": "The resourceless country struggled to feed its population."
+        },
+        {
+          "word": "resourcefully",
+          "type": "adv",
+          "example": "She resourcefully used old materials to create new art."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "ful",
+    "meaning": "Hậu tố **-ful** có nghĩa là 'đầy', 'có nhiều', 'có tính chất của' hoặc 'có khả năng gây ra' điều gì đó. Khi ghép vào một danh từ hoặc động từ, nó biến đổi từ đó thành một tính từ, mô tả sự phong phú hoặc đặc tính của gốc từ.",
+    "table": [
+      {
+        "prefix": "help",
+        "prefix_meaning": "giúp đỡ",
+        "result": "Helpful"
+      },
+      {
+        "prefix": "beauty",
+        "prefix_meaning": "sắc đẹp",
+        "result": "Beautiful"
+      },
+      {
+        "prefix": "success",
+        "prefix_meaning": "thành công",
+        "result": "Successful"
+      },
+      {
+        "prefix": "thought",
+        "prefix_meaning": "suy nghĩ",
+        "result": "Thoughtful"
+      },
+      {
+        "prefix": "resource",
+        "prefix_meaning": "nguồn lực",
+        "result": "Resourceful"
+      }
+    ]
+  }
+}
