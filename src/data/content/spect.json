@@ -1,0 +1,335 @@
+{
+  "id": "spect",
+  "type": "root",
+  "meaning": "to look, see, observe",
+  "origin": "Latin: specere (to look at), spectus (a sight, look)",
+  "explanation": "The root **'spect'** comes from Latin and means 'to look', 'see', or 'observe'. It forms the basis of many English words related to vision, observation, and examination. Understanding 'spect' helps to grasp the core meaning of words like 'inspect' (to look into) or 'respect' (to look back at with admiration).",
+  "level_note": "This root is found in words ranging from B1 to C1 CEFR levels.",
+  "words": [
+    {
+      "word": "inspect",
+      "level": "B1",
+      "breakdown": "in- + spect",
+      "parts": [
+        {
+          "part": "in-",
+          "meaning": "vào trong, bên trong (in, into)"
+        },
+        {
+          "part": "spect",
+          "meaning": "nhìn, xem (to look, to see)"
+        }
+      ],
+      "logic": "Khi bạn 'nhìn' (spect) 'vào trong' (in-) một vật gì đó, bạn đang kiểm tra nó một cách cẩn thận để tìm lỗi hoặc đánh giá. -> kiểm tra, thanh tra.",
+      "meaning_vi": "Kiểm tra, thanh tra, xem xét kỹ lưỡng",
+      "meaning_en": "To look at something carefully in order to check its condition or to see if it is correct.",
+      "example": "The health official will inspect the restaurant kitchen tomorrow.",
+      "collocations": [
+        {
+          "phrase": "inspect thoroughly",
+          "example": "The mechanics inspected the car thoroughly before the long trip."
+        },
+        {
+          "phrase": "inspect property",
+          "example": "They hired a specialist to inspect the property for any damage."
+        },
+        {
+          "phrase": "inspect goods",
+          "example": "Customs officers inspect goods entering the country."
+        }
+      ],
+      "forms": [
+        {
+          "word": "inspection",
+          "type": "n",
+          "example": "The factory passed its annual safety inspection."
+        },
+        {
+          "word": "inspector",
+          "type": "n",
+          "example": "An inspector was assigned to the case."
+        }
+      ]
+    },
+    {
+      "word": "respect",
+      "level": "B1",
+      "breakdown": "re- + spect",
+      "parts": [
+        {
+          "part": "re-",
+          "meaning": "lặp lại, trở lại, ngược lại (again, back)"
+        },
+        {
+          "part": "spect",
+          "meaning": "nhìn, xem (to look, to see)"
+        }
+      ],
+      "logic": "Khi bạn 'nhìn' (spect) 'trở lại' (re-) vào ai đó hoặc điều gì đó, bạn nhìn họ với sự đánh giá cao, coi trọng. -> tôn trọng, kính trọng.",
+      "meaning_vi": "Tôn trọng, kính trọng; sự tôn trọng",
+      "meaning_en": "A feeling of admiration for someone or something because of their qualities or achievements; to admire someone or something.",
+      "example": "Children should respect their elders and listen to their advice.",
+      "collocations": [
+        {
+          "phrase": "earn respect",
+          "example": "He worked hard to earn the respect of his colleagues."
+        },
+        {
+          "phrase": "mutual respect",
+          "example": "A healthy relationship is built on mutual respect and trust."
+        },
+        {
+          "phrase": "show respect",
+          "example": "It's important to show respect for different cultures."
+        }
+      ],
+      "forms": [
+        {
+          "word": "respectful",
+          "type": "adj",
+          "example": "She gave a respectful bow to the sensei."
+        },
+        {
+          "word": "respectfully",
+          "type": "adv",
+          "example": "He respectfully disagreed with his boss's decision."
+        },
+        {
+          "word": "respectable",
+          "type": "adj",
+          "example": "He comes from a respectable family."
+        }
+      ]
+    },
+    {
+      "word": "expect",
+      "level": "B1",
+      "breakdown": "ex- + spect",
+      "parts": [
+        {
+          "part": "ex-",
+          "meaning": "ra ngoài, hướng ra (out, forth)"
+        },
+        {
+          "part": "spect",
+          "meaning": "nhìn, xem (to look, to see)"
+        }
+      ],
+      "logic": "Khi bạn 'nhìn' (spect) 'ra ngoài' (ex-) về phía tương lai, bạn đang mong đợi hoặc dự đoán điều gì đó sẽ xảy ra. -> mong đợi, kỳ vọng.",
+      "meaning_vi": "Mong đợi, kỳ vọng; cho rằng, nghĩ rằng",
+      "meaning_en": "To think or believe that something will happen or that someone will arrive.",
+      "example": "I expect her to arrive around 7 PM.",
+      "collocations": [
+        {
+          "phrase": "expect the worst",
+          "example": "It's good to hope for the best, but expect the worst, just in case."
+        },
+        {
+          "phrase": "expect success",
+          "example": "Many entrepreneurs expect success even when facing challenges."
+        },
+        {
+          "phrase": "fully expect",
+          "example": "I fully expect to pass my driving test this time."
+        }
+      ],
+      "forms": [
+        {
+          "word": "expectation",
+          "type": "n",
+          "example": "The job exceeded all my expectations."
+        },
+        {
+          "word": "unexpected",
+          "type": "adj",
+          "example": "The unexpected rain ruined our picnic plans."
+        }
+      ]
+    },
+    {
+      "word": "aspect",
+      "level": "B2",
+      "breakdown": "a- + spect",
+      "parts": [
+        {
+          "part": "a-",
+          "meaning": "hướng tới, về phía (to, towards)"
+        },
+        {
+          "part": "spect",
+          "meaning": "nhìn, xem (to look, to see)"
+        }
+      ],
+      "logic": "Một 'khía cạnh' là một cách 'nhìn' (spect) 'về phía' (a-) một vấn đề, tức là một mặt của nó. -> khía cạnh, mặt.",
+      "meaning_vi": "Khía cạnh, mặt, góc độ",
+      "meaning_en": "A particular part or feature of something.",
+      "example": "We need to consider every aspect of the problem before making a decision.",
+      "collocations": [
+        {
+          "phrase": "key aspect",
+          "example": "A key aspect of their strategy is customer retention."
+        },
+        {
+          "phrase": "different aspects",
+          "example": "The document covers different aspects of environmental policy."
+        },
+        {
+          "phrase": "important aspect",
+          "example": "Time management is an important aspect of productivity."
+        }
+      ],
+      "forms": [
+        {
+          "word": "aspects",
+          "type": "n",
+          "example": "He analyzed all the aspects of the negotiation."
+        }
+      ]
+    },
+    {
+      "word": "prospect",
+      "level": "B2",
+      "breakdown": "pro- + spect",
+      "parts": [
+        {
+          "part": "pro-",
+          "meaning": "trước, về phía trước (before, forward)"
+        },
+        {
+          "part": "spect",
+          "meaning": "nhìn, xem (to look, to see)"
+        }
+      ],
+      "logic": "Khi bạn 'nhìn' (spect) 'về phía trước' (pro-), bạn đang xem xét những gì có thể xảy ra trong tương lai. -> triển vọng, viễn cảnh.",
+      "meaning_vi": "Triển vọng, viễn cảnh; khả năng xảy ra",
+      "meaning_en": "The possibility that something good might happen in the future; a potential client or customer.",
+      "example": "The prospect of a long holiday filled them with excitement.",
+      "collocations": [
+        {
+          "phrase": "job prospects",
+          "example": "Graduates with technical skills often have good job prospects."
+        },
+        {
+          "phrase": "future prospects",
+          "example": "We need to consider the company's future prospects before investing."
+        },
+        {
+          "phrase": "the prospect of",
+          "example": "The prospect of moving to a new city was both exciting and daunting."
+        }
+      ],
+      "forms": [
+        {
+          "word": "prospective",
+          "type": "adj",
+          "example": "Prospective students are invited to visit the campus."
+        }
+      ]
+    },
+    {
+      "word": "perspective",
+      "level": "C1",
+      "breakdown": "per- + spect + -ive",
+      "parts": [
+        {
+          "part": "per-",
+          "meaning": "xuyên qua, xuyên suốt (through)"
+        },
+        {
+          "part": "spect",
+          "meaning": "nhìn, xem (to look, to see)"
+        },
+        {
+          "part": "-ive",
+          "meaning": "tạo tính từ hoặc danh từ (forms adjective or noun)"
+        }
+      ],
+      "logic": "Một 'góc nhìn' (perspective) là cách 'nhìn' (spect) 'xuyên qua' (per-) một vấn đề hoặc tình huống, tức là một quan điểm cá nhân. -> góc nhìn, quan điểm.",
+      "meaning_vi": "Góc nhìn, quan điểm; viễn cảnh, luật xa gần",
+      "meaning_en": "A particular way of considering something; a viewpoint.",
+      "example": "From an environmental perspective, renewable energy is crucial.",
+      "collocations": [
+        {
+          "phrase": "different perspective",
+          "example": "Trying to understand the issue from a different perspective can be helpful."
+        },
+        {
+          "phrase": "put into perspective",
+          "example": "Her advice helped me put my problems into perspective."
+        },
+        {
+          "phrase": "gain perspective",
+          "example": "Travelling to new countries helps you gain perspective on your own culture."
+        }
+      ],
+      "forms": [
+        {
+          "word": "perspectival",
+          "type": "adj",
+          "example": "The artist used perspectival distortion in his work."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "spect",
+    "meaning": "nhìn, xem (to look, to see)",
+    "table": [
+      {
+        "prefix": "in-",
+        "prefix_meaning": "vào trong",
+        "result": "inspect (nhìn vào -> kiểm tra)"
+      },
+      {
+        "prefix": "re-",
+        "prefix_meaning": "trở lại, một lần nữa",
+        "result": "respect (nhìn lại -> tôn trọng)"
+      },
+      {
+        "prefix": "ex-",
+        "prefix_meaning": "ra ngoài",
+        "result": "expect (nhìn ra ngoài về tương lai -> mong đợi)"
+      },
+      {
+        "prefix": "a-",
+        "prefix_meaning": "hướng tới, về phía",
+        "result": "aspect (cái nhìn về phía cái gì -> khía cạnh)"
+      },
+      {
+        "prefix": "pro-",
+        "prefix_meaning": "trước, về phía trước",
+        "result": "prospect (nhìn về phía trước -> triển vọng)"
+      },
+      {
+        "prefix": "per-",
+        "prefix_meaning": "xuyên qua, xuyên suốt",
+        "result": "perspective (nhìn xuyên qua -> góc nhìn)"
+      },
+      {
+        "suffix": "-ion",
+        "suffix_meaning": "hậu tố tạo danh từ",
+        "result": "inspection, expectation"
+      },
+      {
+        "suffix": "-or",
+        "suffix_meaning": "hậu tố tạo danh từ (người/vật thực hiện hành động)",
+        "result": "inspector"
+      },
+      {
+        "suffix": "-ful",
+        "suffix_meaning": "hậu tố tạo tính từ (đầy, có)",
+        "result": "respectful"
+      },
+      {
+        "suffix": "-able",
+        "suffix_meaning": "hậu tố tạo tính từ (có thể, đáng)",
+        "result": "respectable"
+      },
+      {
+        "suffix": "-ive",
+        "suffix_meaning": "hậu tố tạo tính từ hoặc danh từ",
+        "result": "perspective, prospective"
+      }
+    ]
+  }
+}
