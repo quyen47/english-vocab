@@ -1,0 +1,266 @@
+{
+  "id": "pre",
+  "type": "prefix",
+  "meaning": "before, beforehand",
+  "origin": "Latin: prae- meaning \"before, in front of\"",
+  "explanation": "Pre- là một tiền tố có nguồn gốc từ tiếng Latinh, mang ý nghĩa chính là **trước** hoặc **trước đó**. Nó thường chỉ ra một hành động, trạng thái, hoặc vị trí xảy ra **trước** một thời điểm, sự kiện hoặc vật thể khác.",
+  "level_note": "Từ vựng sử dụng tiền tố \"pre-\" phổ biến từ cấp độ B1 đến C1.",
+  "words": [
+    {
+      "word": "predict",
+      "level": "B1",
+      "breakdown": "pre- + dict",
+      "parts": [
+        {
+          "part": "pre-",
+          "meaning": "trước (before)"
+        },
+        {
+          "part": "dict",
+          "meaning": "nói (say)"
+        }
+      ],
+      "logic": "pre- (trước) + dict (nói) -> nói trước điều gì đó sẽ xảy ra.",
+      "meaning_vi": "dự đoán, tiên đoán",
+      "meaning_en": "to say what will happen in the future",
+      "example": "Experts predict that the economy will grow next year.",
+      "collocations": [
+        {
+          "phrase": "predict the future",
+          "example": "She believes she can predict the future."
+        },
+        {
+          "phrase": "accurately predict",
+          "example": "Scientists accurately predicted the eclipse."
+        },
+        {
+          "phrase": "predict the outcome",
+          "example": "It's difficult to predict the outcome of this match."
+        }
+      ],
+      "forms": [
+        {
+          "word": "prediction",
+          "type": "n",
+          "example": "His prediction about the weather was correct."
+        },
+        {
+          "word": "predictable",
+          "type": "adj",
+          "example": "The movie's ending was quite predictable."
+        },
+        {
+          "word": "predictably",
+          "type": "adv",
+          "example": "Predictably, she was late as usual."
+        }
+      ]
+    },
+    {
+      "word": "prepare",
+      "level": "B1",
+      "breakdown": "pre- + pare",
+      "parts": [
+        {
+          "part": "pre-",
+          "meaning": "trước (before)"
+        },
+        {
+          "part": "pare",
+          "meaning": "sắp xếp, chuẩn bị (to make ready)"
+        }
+      ],
+      "logic": "pre- (trước) + pare (sắp xếp/chuẩn bị) -> sắp xếp mọi thứ trước khi một sự kiện xảy ra để sẵn sàng đón nhận nó.",
+      "meaning_vi": "chuẩn bị, sửa soạn",
+      "meaning_en": "to make something ready for use or for a particular purpose",
+      "example": "We need to prepare for the upcoming exam.",
+      "collocations": [
+        {
+          "phrase": "prepare a meal",
+          "example": "My mother is preparing a meal for dinner."
+        },
+        {
+          "phrase": "prepare for something",
+          "example": "Students are preparing for their final exams."
+        },
+        {
+          "phrase": "prepare thoroughly",
+          "example": "You should prepare thoroughly for the interview."
+        }
+      ],
+      "forms": [
+        {
+          "word": "preparation",
+          "type": "n",
+          "example": "The preparation for the conference is complete."
+        },
+        {
+          "word": "prepared",
+          "type": "adj",
+          "example": "He is always prepared for any situation."
+        }
+      ]
+    },
+    {
+      "word": "preview",
+      "level": "B2",
+      "breakdown": "pre- + view",
+      "parts": [
+        {
+          "part": "pre-",
+          "meaning": "trước (before)"
+        },
+        {
+          "part": "view",
+          "meaning": "nhìn, xem (to see)"
+        }
+      ],
+      "logic": "pre- (trước) + view (nhìn/xem) -> hành động nhìn hoặc xem một cái gì đó trước khi nó được công bố hoặc trình chiếu đầy đủ.",
+      "meaning_vi": "xem trước, xem thử",
+      "meaning_en": "an opportunity to see something before it is shown to the general public",
+      "example": "We got a preview of the new movie before its official release.",
+      "collocations": [
+        {
+          "phrase": "movie preview",
+          "example": "The cinema will have a movie preview tonight."
+        },
+        {
+          "phrase": "get a preview",
+          "example": "I got a preview of the new design plans."
+        },
+        {
+          "phrase": "exclusive preview",
+          "example": "Only special guests received an exclusive preview of the exhibition."
+        }
+      ],
+      "forms": [
+        {
+          "word": "preview",
+          "type": "v",
+          "example": "You can preview the changes before saving them."
+        }
+      ]
+    },
+    {
+      "word": "precaution",
+      "level": "B2",
+      "breakdown": "pre- + caution",
+      "parts": [
+        {
+          "part": "pre-",
+          "meaning": "trước (before)"
+        },
+        {
+          "part": "caution",
+          "meaning": "sự cẩn trọng, cảnh báo (carefulness, warning)"
+        }
+      ],
+      "logic": "pre- (trước) + caution (cẩn trọng) -> sự cẩn trọng được thực hiện trước để ngăn chặn điều gì đó xấu xảy ra.",
+      "meaning_vi": "biện pháp phòng ngừa, sự đề phòng",
+      "meaning_en": "an action taken to prevent something unpleasant or dangerous from happening",
+      "example": "Always take precautions when working with electricity.",
+      "collocations": [
+        {
+          "phrase": "take precautions",
+          "example": "We need to take safety precautions when hiking."
+        },
+        {
+          "phrase": "safety precautions",
+          "example": "Safety precautions are strictly enforced at the construction site."
+        },
+        {
+          "phrase": "exercise caution/precaution",
+          "example": "You should exercise caution when driving in bad weather."
+        }
+      ],
+      "forms": [
+        {
+          "word": "precautionary",
+          "type": "adj",
+          "example": "The government issued precautionary warnings about the storm."
+        }
+      ]
+    },
+    {
+      "word": "precede",
+      "level": "C1",
+      "breakdown": "pre- + cede",
+      "parts": [
+        {
+          "part": "pre-",
+          "meaning": "trước (before)"
+        },
+        {
+          "part": "cede",
+          "meaning": "đi, đi đến (to go)"
+        }
+      ],
+      "logic": "pre- (trước) + cede (đi) -> đi trước, tức là xảy ra hoặc xuất hiện trước một cái gì đó khác.",
+      "meaning_vi": "đi trước, đứng trước, xảy ra trước",
+      "meaning_en": "to happen or come before something or someone else",
+      "example": "The introduction precedes the main body of the report.",
+      "collocations": [
+        {
+          "phrase": "precede by",
+          "example": "His speech was preceded by a short video presentation."
+        },
+        {
+          "phrase": "precede with",
+          "example": "The president preceded his address with a word of thanks."
+        },
+        {
+          "phrase": "a preceding event",
+          "example": "A preceding event set the stage for the current crisis."
+        }
+      ],
+      "forms": [
+        {
+          "word": "precedent",
+          "type": "n",
+          "example": "This decision will set a dangerous precedent."
+        },
+        {
+          "word": "preceding",
+          "type": "adj",
+          "example": "In the preceding chapter, we discussed this in more detail."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "pre",
+    "meaning": "trước, trước đó",
+    "table": [
+      {
+        "prefix": "pre-",
+        "prefix_meaning": "trước",
+        "result": "predict (dự đoán)"
+      },
+      {
+        "prefix": "pre-",
+        "prefix_meaning": "trước",
+        "result": "prepare (chuẩn bị)"
+      },
+      {
+        "prefix": "pre-",
+        "prefix_meaning": "trước",
+        "result": "preview (xem trước)"
+      },
+      {
+        "suffix": "-ion",
+        "suffix_meaning": "sự/hành động",
+        "result": "prediction (sự dự đoán)"
+      },
+      {
+        "suffix": "-ation",
+        "suffix_meaning": "sự/hành động",
+        "result": "preparation (sự chuẩn bị)"
+      },
+      {
+        "suffix": "-ary",
+        "suffix_meaning": "mang tính chất",
+        "result": "precautionary (mang tính phòng ngừa)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "id": "dict",
+  "type": "root",
+  "meaning": "to say, to speak, to declare",
+  "origin": "Latin: dicere (to say, speak), dictus (past participle stem)",
+  "explanation": "The root **dict** comes from Latin and carries the core meaning of **to say**, **to speak**, or **to declare**. Understanding this root helps Vietnamese learners grasp that words containing 'dict' often relate to verbal communication, statements, or pronouncements, whether it's saying something beforehand, against something, or simply speaking aloud.",
+  "level_note": "This vocabulary content covers words primarily at CEFR levels B1, B2, and C1.",
+  "words": [
+    {
+      "word": "dictate",
+      "level": "B1",
+      "breakdown": "dict + -ate",
+      "parts": [
+        {
+          "part": "dict",
+          "meaning": "nói, đọc (to say, to speak)"
+        },
+        {
+          "part": "-ate",
+          "meaning": "tạo thành động từ (forms a verb)"
+        }
+      ],
+      "logic": "Khi bạn 'dict' (nói, đọc) và thêm '-ate' (tạo động từ), bạn có hành động 'dictate' (đọc cho người khác viết, hoặc ra lệnh, chỉ huy).",
+      "meaning_vi": "Đọc cho người khác viết; ra lệnh, chỉ huy.",
+      "meaning_en": "To say or read aloud for another to transcribe; to command or prescribe.",
+      "example": "The manager can't dictate how I do my job.",
+      "collocations": [
+        {
+          "phrase": "dictate terms",
+          "example": "It's not fair to dictate terms without negotiation."
+        },
+        {
+          "phrase": "dictate policy",
+          "example": "The board attempts to dictate policy for the entire organization."
+        },
+        {
+          "phrase": "dictate what happens",
+          "example": "No one can dictate what happens in my life."
+        }
+      ],
+      "forms": [
+        {
+          "word": "dictation",
+          "type": "n",
+          "example": "She took shorthand dictation during the meeting."
+        },
+        {
+          "word": "dictator",
+          "type": "n",
+          "example": "The country was ruled by a military dictator."
+        },
+        {
+          "word": "dictatorial",
+          "type": "adj",
+          "example": "His dictatorial style made him unpopular."
+        }
+      ]
+    },
+    {
+      "word": "predict",
+      "level": "B1",
+      "breakdown": "pre- + dict",
+      "parts": [
+        {
+          "part": "pre-",
+          "meaning": "trước (before)"
+        },
+        {
+          "part": "dict",
+          "meaning": "nói (to say, to speak)"
+        }
+      ],
+      "logic": "Khi bạn 'pre-' (trước) 'dict' (nói), hành động đó có nghĩa là 'predict' (nói trước, dự đoán điều gì sẽ xảy ra).",
+      "meaning_vi": "Dự đoán, tiên đoán.",
+      "meaning_en": "To say or estimate that something will happen in the future.",
+      "example": "It's difficult to predict the weather accurately for next week.",
+      "collocations": [
+        {
+          "phrase": "predict the future",
+          "example": "No one can truly predict the future."
+        },
+        {
+          "phrase": "predict an outcome",
+          "example": "Experts tried to predict an outcome for the election."
+        },
+        {
+          "phrase": "predict accurately",
+          "example": "Meteorologists strive to predict accurately."
+        }
+      ],
+      "forms": [
+        {
+          "word": "prediction",
+          "type": "n",
+          "example": "Her prediction about the market crash came true."
+        },
+        {
+          "word": "predictable",
+          "type": "adj",
+          "example": "The plot of the movie was too predictable."
+        },
+        {
+          "word": "unpredictable",
+          "type": "adj",
+          "example": "The weather in spring can be very unpredictable."
+        }
+      ]
+    },
+    {
+      "word": "dictionary",
+      "level": "B1",
+      "breakdown": "dict + -ion + -ary",
+      "parts": [
+        {
+          "part": "dict",
+          "meaning": "từ, nói (word, to speak)"
+        },
+        {
+          "part": "-ion",
+          "meaning": "tạo danh từ (forms a noun)"
+        },
+        {
+          "part": "-ary",
+          "meaning": "liên quan đến, nơi chốn (related to, place for)"
+        }
+      ],
+      "logic": "Gốc 'dict' (từ/nói) + '-ion' (tạo danh từ 'diction' - cách dùng từ, vốn từ) + '-ary' (nơi chốn, liên quan đến) tạo thành 'dictionary' (nơi chứa các từ, sách tra cứu từ ngữ).",
+      "meaning_vi": "Sách tra cứu các từ, từ điển.",
+      "meaning_en": "A book containing an alphabetical list of words, with their meanings and other information.",
+      "example": "Always consult a dictionary when you encounter an unfamiliar word.",
+      "collocations": [
+        {
+          "phrase": "consult a dictionary",
+          "example": "Students should consult a dictionary to improve their vocabulary."
+        },
+        {
+          "phrase": "English dictionary",
+          "example": "I bought a new English dictionary for my studies."
+        },
+        {
+          "phrase": "online dictionary",
+          "example": "Many prefer using an online dictionary for convenience."
+        }
+      ],
+      "forms": [
+        {
+          "word": "diction",
+          "type": "n",
+          "example": "The speaker's diction was clear and precise."
+        }
+      ]
+    },
+    {
+      "word": "contradict",
+      "level": "B2",
+      "breakdown": "contra- + dict",
+      "parts": [
+        {
+          "part": "contra-",
+          "meaning": "chống lại, ngược lại (against, opposite)"
+        },
+        {
+          "part": "dict",
+          "meaning": "nói (to say, to speak)"
+        }
+      ],
+      "logic": "Khi bạn 'contra-' (chống lại, ngược lại) 'dict' (nói), hành động đó có nghĩa là 'contradict' (nói ngược lại, mâu thuẫn hoặc phủ nhận một lời nói khác).",
+      "meaning_vi": "Mâu thuẫn với; phủ nhận, bác bỏ.",
+      "meaning_en": "To deny the truth of a statement by asserting the opposite; to be in conflict with.",
+      "example": "The two witnesses contradicted each other's testimony.",
+      "collocations": [
+        {
+          "phrase": "contradict oneself",
+          "example": "He often contradicts himself during interviews."
+        },
+        {
+          "phrase": "contradict a statement",
+          "example": "She directly contradicted his statement about the incident."
+        },
+        {
+          "phrase": "contradict evidence",
+          "example": "The new findings contradict previous evidence."
+        }
+      ],
+      "forms": [
+        {
+          "word": "contradiction",
+          "type": "n",
+          "example": "There's a clear contradiction between his words and actions."
+        },
+        {
+          "word": "contradictory",
+          "type": "adj",
+          "example": "The reports offered contradictory information."
+        }
+      ]
+    },
+    {
+      "word": "verdict",
+      "level": "B2",
+      "breakdown": "ver- + dict",
+      "parts": [
+        {
+          "part": "ver-",
+          "meaning": "sự thật, đúng (truth)"
+        },
+        {
+          "part": "dict",
+          "meaning": "nói, tuyên bố (to say, to declare)"
+        }
+      ],
+      "logic": "Gốc 'ver-' (sự thật) kết hợp với 'dict' (tuyên bố) tạo thành 'verdict' (lời tuyên bố sự thật, đặc biệt là phán quyết của bồi thẩm đoàn sau khi nghe các bằng chứng).",
+      "meaning_vi": "Lời tuyên án, phán quyết của bồi thẩm đoàn.",
+      "meaning_en": "A decision on a disputed issue in a civil or criminal case, especially a finding by a jury.",
+      "example": "The jury returned a unanimous guilty verdict after hours of deliberation.",
+      "collocations": [
+        {
+          "phrase": "reach a verdict",
+          "example": "The jury took three days to reach a verdict."
+        },
+        {
+          "phrase": "guilty verdict",
+          "example": "He was devastated by the guilty verdict."
+        },
+        {
+          "phrase": "split verdict",
+          "example": "The trial ended in a split verdict, with some charges dropped."
+        }
+      ],
+      "forms": [
+        {
+          "word": "verdict",
+          "type": "n",
+          "example": "The final verdict of the public was in her favor."
+        }
+      ]
+    },
+    {
+      "word": "edict",
+      "level": "C1",
+      "breakdown": "e- + dict",
+      "parts": [
+        {
+          "part": "e-",
+          "meaning": "ra, ra ngoài (out, forth)"
+        },
+        {
+          "part": "dict",
+          "meaning": "nói, tuyên bố (to say, to declare)"
+        }
+      ],
+      "logic": "Tiếp đầu ngữ 'e-' (ra, ra ngoài) kết hợp với 'dict' (tuyên bố) tạo thành 'edict' (một lời tuyên bố được ban hành ra, tức sắc lệnh hoặc chiếu chỉ).",
+      "meaning_vi": "Sắc lệnh, chiếu chỉ, lệnh ban hành.",
+      "meaning_en": "An official order or proclamation issued by a person in authority.",
+      "example": "The king issued an edict forbidding all trade with neighboring countries.",
+      "collocations": [
+        {
+          "phrase": "royal edict",
+          "example": "A royal edict was passed to protect the ancient forest."
+        },
+        {
+          "phrase": "issue an edict",
+          "example": "The government decided to issue an edict on public gatherings."
+        },
+        {
+          "phrase": "enforce an edict",
+          "example": "It was difficult for local officials to enforce the new edict."
+        }
+      ],
+      "forms": [
+        {
+          "word": "edict",
+          "type": "n",
+          "example": "The ancient edict remained in force for centuries."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "dict",
+    "meaning": "to say, to speak, to declare",
+    "table": [
+      {
+        "prefix": "pre-",
+        "prefix_meaning": "trước (before)",
+        "result": "predict"
+      },
+      {
+        "prefix": "contra-",
+        "prefix_meaning": "chống lại, ngược lại (against, opposite)",
+        "result": "contradict"
+      },
+      {
+        "prefix": "e-",
+        "prefix_meaning": "ra, ra ngoài (out, forth)",
+        "result": "edict"
+      },
+      {
+        "suffix": "-ate",
+        "suffix_meaning": "tạo thành động từ (forms a verb)",
+        "result": "dictate"
+      },
+      {
+        "suffix": "-ion",
+        "suffix_meaning": "tạo danh từ (forms a noun)",
+        "result": "diction"
+      },
+      {
+        "suffix": "-ary",
+        "suffix_meaning": "liên quan đến, nơi chốn (related to, place for)",
+        "result": "dictionary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "id": "port",
+  "type": "root",
+  "meaning": "carry",
+  "origin": "Latin: portare",
+  "explanation": "The root \"port\" comes from the Latin verb *portare*, meaning \"to carry\" or \"to bear\". It is found in many English words related to **moving, transporting**, or **conveying** things, ideas, or even people from one place to another.",
+  "level_note": "This root is commonly found in words ranging from B1 to C1 CEFR levels.",
+  "words": [
+    {
+      "word": "import",
+      "level": "B1",
+      "breakdown": "im- + port",
+      "parts": [
+        {
+          "part": "im-",
+          "meaning": "vào, bên trong (into, in)"
+        },
+        {
+          "part": "port",
+          "meaning": "mang, vác (carry)"
+        }
+      ],
+      "logic": "Tiếp tố \"im-\" (vào) kết hợp với gốc \"port\" (mang) tạo nên ý nghĩa là mang cái gì đó từ bên ngoài vào một quốc gia hoặc khu vực khác.",
+      "meaning_vi": "nhập khẩu; hàng nhập khẩu",
+      "meaning_en": "to bring goods or services into a country from abroad for sale; an item brought from abroad",
+      "example": "The country decided to import more oil to meet domestic demand.",
+      "collocations": [
+        {
+          "phrase": "import goods",
+          "example": "We primarily import goods from China and Vietnam."
+        },
+        {
+          "phrase": "import duty",
+          "example": "The import duty on luxury cars is quite high."
+        },
+        {
+          "phrase": "import license",
+          "example": "You need an import license to bring certain chemicals into the country."
+        }
+      ],
+      "forms": [
+        {
+          "word": "import",
+          "type": "n",
+          "example": "These imports are subject to a high tariff."
+        },
+        {
+          "word": "importer",
+          "type": "n",
+          "example": "She works for a large coffee importer."
+        }
+      ]
+    },
+    {
+      "word": "export",
+      "level": "B1",
+      "breakdown": "ex- + port",
+      "parts": [
+        {
+          "part": "ex-",
+          "meaning": "ra, bên ngoài (out, outside)"
+        },
+        {
+          "part": "port",
+          "meaning": "mang, vác (carry)"
+        }
+      ],
+      "logic": "Tiếp tố \"ex-\" (ra) kết hợp với gốc \"port\" (mang) tạo nên ý nghĩa là mang cái gì đó từ bên trong ra bên ngoài một quốc gia hoặc khu vực khác.",
+      "meaning_vi": "xuất khẩu; hàng xuất khẩu",
+      "meaning_en": "to send goods or services to another country for sale; an item sent to another country for sale",
+      "example": "Vietnam continues to export a significant amount of rice globally.",
+      "collocations": [
+        {
+          "phrase": "export market",
+          "example": "The company is looking to expand into new export markets."
+        },
+        {
+          "phrase": "export volume",
+          "example": "Last year, the export volume of electronic goods increased by 10%."
+        },
+        {
+          "phrase": "export company",
+          "example": "He founded an export company specializing in agricultural products."
+        }
+      ],
+      "forms": [
+        {
+          "word": "export",
+          "type": "n",
+          "example": "Coffee is one of Brazil's main exports."
+        },
+        {
+          "word": "exporter",
+          "type": "n",
+          "example": "She is a leading exporter of textiles."
+        }
+      ]
+    },
+    {
+      "word": "transport",
+      "level": "B1",
+      "breakdown": "trans- + port",
+      "parts": [
+        {
+          "part": "trans-",
+          "meaning": "xuyên qua, qua lại (across, through)"
+        },
+        {
+          "part": "port",
+          "meaning": "mang, vác (carry)"
+        }
+      ],
+      "logic": "Tiếp tố \"trans-\" (xuyên qua) kết hợp với gốc \"port\" (mang) tạo nên ý nghĩa là mang hoặc di chuyển một thứ gì đó hoặc ai đó từ nơi này qua nơi khác.",
+      "meaning_vi": "vận chuyển, chuyên chở; phương tiện giao thông",
+      "meaning_en": "to take or carry people or goods from one place to another; a system or means of conveying passengers or goods",
+      "example": "The company uses trucks to transport goods across the country.",
+      "collocations": [
+        {
+          "phrase": "public transport",
+          "example": "I prefer using public transport to driving in the city."
+        },
+        {
+          "phrase": "transport goods",
+          "example": "It's costly to transport goods by air."
+        },
+        {
+          "phrase": "transport network",
+          "example": "The city has an efficient transport network."
+        }
+      ],
+      "forms": [
+        {
+          "word": "transportation",
+          "type": "n",
+          "example": "A good transportation system is vital for economic growth."
+        },
+        {
+          "word": "transporter",
+          "type": "n",
+          "example": "The cargo was carried by a heavy-duty transporter."
+        }
+      ]
+    },
+    {
+      "word": "support",
+      "level": "B2",
+      "breakdown": "sub- + port",
+      "parts": [
+        {
+          "part": "sub-",
+          "meaning": "dưới, bên dưới (under, below)"
+        },
+        {
+          "part": "port",
+          "meaning": "mang, vác (carry)"
+        }
+      ],
+      "logic": "Tiếp tố \"sub-\" (dưới) kết hợp với gốc \"port\" (mang) tạo nên ý nghĩa là mang đỡ, nâng đỡ từ bên dưới, hoặc giúp đỡ, khuyến khích ai đó.",
+      "meaning_vi": "ủng hộ, hỗ trợ; sự ủng hộ, vật chống đỡ",
+      "meaning_en": "to hold up; to give help or encouragement to someone or something; help, encouragement, or a base that holds something up",
+      "example": "Many people gathered to support the local charity event.",
+      "collocations": [
+        {
+          "phrase": "financial support",
+          "example": "The project received significant financial support from the government."
+        },
+        {
+          "phrase": "emotional support",
+          "example": "Friends and family offered her great emotional support during her illness."
+        },
+        {
+          "phrase": "strong support",
+          "example": "The candidate has strong support from young voters."
+        }
+      ],
+      "forms": [
+        {
+          "word": "supportive",
+          "type": "adj",
+          "example": "My parents are very supportive of my career choice."
+        },
+        {
+          "word": "supporter",
+          "type": "n",
+          "example": "He is a loyal supporter of the football team."
+        }
+      ]
+    },
+    {
+      "word": "report",
+      "level": "B2",
+      "breakdown": "re- + port",
+      "parts": [
+        {
+          "part": "re-",
+          "meaning": "trở lại, lặp lại (back, again)"
+        },
+        {
+          "part": "port",
+          "meaning": "mang, vác (carry)"
+        }
+      ],
+      "logic": "Tiếp tố \"re-\" (trở lại) kết hợp với gốc \"port\" (mang) tạo nên ý nghĩa là mang thông tin trở lại, tức là kể lại, tường trình hoặc báo cáo về một sự việc.",
+      "meaning_vi": "báo cáo, tường trình; bài báo cáo",
+      "meaning_en": "to give a description of something or information about it to someone; a spoken or written account that gives information about a particular event or subject",
+      "example": "The journalist will report live from the scene of the accident.",
+      "collocations": [
+        {
+          "phrase": "submit a report",
+          "example": "You need to submit a report by the end of the week."
+        },
+        {
+          "phrase": "write a report",
+          "example": "Please write a report on your findings."
+        },
+        {
+          "phrase": "police report",
+          "example": "We filed a police report after the theft."
+        }
+      ],
+      "forms": [
+        {
+          "word": "reporter",
+          "type": "n",
+          "example": "A news reporter was covering the protests."
+        },
+        {
+          "word": "reportedly",
+          "type": "adv",
+          "example": "He was reportedly seen leaving the building at midnight."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "port",
+    "meaning": "mang, vác (carry)",
+    "table": [
+      {
+        "prefix": "im-",
+        "prefix_meaning": "vào, bên trong (into)",
+        "result": "import (mang vào, nhập khẩu)"
+      },
+      {
+        "prefix": "ex-",
+        "prefix_meaning": "ra, bên ngoài (out)",
+        "result": "export (mang ra, xuất khẩu)"
+      },
+      {
+        "prefix": "trans-",
+        "prefix_meaning": "xuyên qua, qua lại (across)",
+        "result": "transport (mang qua, vận chuyển)"
+      },
+      {
+        "prefix": "sub-",
+        "prefix_meaning": "dưới, bên dưới (under)",
+        "result": "support (mang đỡ, hỗ trợ)"
+      },
+      {
+        "prefix": "re-",
+        "prefix_meaning": "trở lại, lặp lại (back)",
+        "result": "report (mang lại thông tin, báo cáo)"
+      }
+    ]
+  }
+}
