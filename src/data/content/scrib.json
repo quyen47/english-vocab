@@ -1,0 +1,276 @@
+{
+  "id": "scrib",
+  "type": "root",
+  "meaning": "to write",
+  "origin": "Latin: scribere",
+  "explanation": "The root **scrib** comes from the Latin verb **scribere**, meaning 'to write'. It forms the basis of many English words related to writing, inscribing, or recording information. Understanding this root helps clarify words like 'describe' (write down/about) or 'subscribe' (write one's name under).",
+  "level_note": "Words derived from 'scrib' typically range from B1 to C1 CEFR levels.",
+  "words": [
+    {
+      "word": "describe",
+      "level": "B1",
+      "breakdown": "de- + scrib",
+      "parts": [
+        {
+          "part": "de-",
+          "meaning": "hoàn toàn, xuống (completely, down)"
+        },
+        {
+          "part": "scrib",
+          "meaning": "viết (write)"
+        }
+      ],
+      "logic": "Tiếp đầu ngữ \"de-\" ở đây mang nghĩa \"hoàn toàn\" hoặc \"từ đầu đến cuối\". Kết hợp với \"scrib\" (viết), từ này có nghĩa là \"viết ra hoàn chỉnh\" hay \"diễn tả chi tiết bằng lời nói hoặc chữ viết để làm rõ một cái gì đó\".",
+      "meaning_vi": "miêu tả, mô tả; diễn tả",
+      "meaning_en": "to say or write what someone or something is like",
+      "example": "Can you describe your new house to me, please?",
+      "collocations": [
+        {
+          "phrase": "describe accurately",
+          "example": "He tried his best to describe the incident as accurately as possible."
+        },
+        {
+          "phrase": "describe in detail",
+          "example": "The witness described the suspect in detail to the police."
+        },
+        {
+          "phrase": "describe a feeling",
+          "example": "It's often hard to describe a feeling as complex as grief."
+        }
+      ],
+      "forms": [
+        {
+          "word": "description",
+          "type": "n",
+          "example": "Her vivid description of the landscape made me want to visit."
+        },
+        {
+          "word": "descriptive",
+          "type": "adj",
+          "example": "The novel is full of rich, descriptive language."
+        }
+      ]
+    },
+    {
+      "word": "subscribe",
+      "level": "B1",
+      "breakdown": "sub- + scrib",
+      "parts": [
+        {
+          "part": "sub-",
+          "meaning": "dưới (under)"
+        },
+        {
+          "part": "scrib",
+          "meaning": "viết (write)"
+        }
+      ],
+      "logic": "Tiếp đầu ngữ \"sub-\" nghĩa là \"dưới\", và \"scrib\" nghĩa là \"viết\". Xưa kia, để đăng ký một dịch vụ hay tài liệu, người ta thường \"viết tên mình xuống dưới\" một danh sách hoặc hợp đồng. Ngày nay, nghĩa này mở rộng thành đăng ký nhận hoặc đặt mua một cái gì đó định kỳ.",
+      "meaning_vi": "đăng ký, đặt mua",
+      "meaning_en": "to arrange to receive something regularly, especially a magazine or newspaper, or to pay money to be a member of an organization",
+      "example": "I subscribe to several online news services.",
+      "collocations": [
+        {
+          "phrase": "subscribe to a channel",
+          "example": "Millions of viewers subscribe to his cooking channel on YouTube."
+        },
+        {
+          "phrase": "subscribe to a service",
+          "example": "You need to subscribe to the streaming service to watch that series."
+        },
+        {
+          "phrase": "subscribe now",
+          "example": "Subscribe now to get a 10% discount on your first order."
+        }
+      ],
+      "forms": [
+        {
+          "word": "subscriber",
+          "type": "n",
+          "example": "The magazine boasts over 100,000 subscribers."
+        },
+        {
+          "word": "subscription",
+          "type": "n",
+          "example": "My annual subscription to the gym is due next month."
+        }
+      ]
+    },
+    {
+      "word": "prescribe",
+      "level": "B2",
+      "breakdown": "pre- + scrib",
+      "parts": [
+        {
+          "part": "pre-",
+          "meaning": "trước (before)"
+        },
+        {
+          "part": "scrib",
+          "meaning": "viết (write)"
+        }
+      ],
+      "logic": "Tiếp đầu ngữ \"pre-\" nghĩa là \"trước\", và \"scrib\" nghĩa là \"viết\". Từ này ban đầu dùng để chỉ việc \"viết ra trước\" một quy tắc, lệnh, hoặc chỉ dẫn, đặc biệt là trong y học, bác sĩ viết đơn thuốc trước khi bệnh nhân mua thuốc.",
+      "meaning_vi": "kê đơn (thuốc); ra lệnh, quy định",
+      "meaning_en": "to order something, especially a medicine or a treatment, or to state officially what should be done",
+      "example": "The doctor prescribed a course of antibiotics for my infection.",
+      "collocations": [
+        {
+          "phrase": "prescribe medication",
+          "example": "Only qualified doctors can prescribe medication."
+        },
+        {
+          "phrase": "prescribe a treatment",
+          "example": "The physiotherapist prescribed a series of exercises."
+        },
+        {
+          "phrase": "prescribe limits",
+          "example": "The regulations prescribe strict limits on noise pollution."
+        }
+      ],
+      "forms": [
+        {
+          "word": "prescription",
+          "type": "n",
+          "example": "I need to pick up my prescription from the pharmacy."
+        },
+        {
+          "word": "prescriptive",
+          "type": "adj",
+          "example": "Some grammar books are very prescriptive about how language should be used."
+        }
+      ]
+    },
+    {
+      "word": "inscribe",
+      "level": "B2",
+      "breakdown": "in- + scrib",
+      "parts": [
+        {
+          "part": "in-",
+          "meaning": "vào, trên (in, on, into)"
+        },
+        {
+          "part": "scrib",
+          "meaning": "viết (write)"
+        }
+      ],
+      "logic": "Tiếp đầu ngữ \"in-\" nghĩa là \"vào\" hoặc \"trên bề mặt\", và \"scrib\" nghĩa là \"viết\". Từ này dùng để chỉ hành động \"viết hoặc khắc vào\" một bề mặt nào đó, thường là một vật liệu cứng và bền.",
+      "meaning_vi": "khắc, ghi, viết lên (bề mặt)",
+      "meaning_en": "to write or carve words, a name, etc. onto something, especially a hard surface",
+      "example": "The medal was inscribed with the winner's name and the date of the race.",
+      "collocations": [
+        {
+          "phrase": "inscribe a message",
+          "example": "They decided to inscribe a personal message on the back of the watch."
+        },
+        {
+          "phrase": "inscribe a name",
+          "example": "Each tombstone was inscribed with the name of a fallen soldier."
+        },
+        {
+          "phrase": "inscribe on a plaque",
+          "example": "Her achievements were inscribed on a bronze plaque."
+        }
+      ],
+      "forms": [
+        {
+          "word": "inscription",
+          "type": "n",
+          "example": "The ancient inscription on the temple wall was difficult to decipher."
+        }
+      ]
+    },
+    {
+      "word": "transcript",
+      "level": "C1",
+      "breakdown": "trans- + script",
+      "parts": [
+        {
+          "part": "trans-",
+          "meaning": "xuyên qua, chuyển đổi (across, through, change)"
+        },
+        {
+          "part": "script",
+          "meaning": "văn bản, cái được viết (something written, text)"
+        }
+      ],
+      "logic": "Tiếp đầu ngữ \"trans-\" nghĩa là \"chuyển đổi\" hoặc \"xuyên qua\". \"Script\" ở đây là một dạng danh từ của gốc \"scrib\" có nghĩa là \"văn bản, cái được viết\". Do đó, \"transcript\" có nghĩa là \"văn bản đã được chuyển đổi\" từ một dạng khác, ví dụ từ lời nói thành chữ viết hoặc từ một hồ sơ sang một bản sao chính thức.",
+      "meaning_vi": "bản sao chép, bản ghi chép (lời nói, bài giảng, hồ sơ)",
+      "meaning_en": "a written or printed copy of words that have been spoken, or an official record of a student's grades",
+      "example": "The lawyer requested a full transcript of the court proceedings.",
+      "collocations": [
+        {
+          "phrase": "official transcript",
+          "example": "You need to submit your official transcript from university for the job application."
+        },
+        {
+          "phrase": "full transcript",
+          "example": "The news website published a full transcript of the presidential debate."
+        },
+        {
+          "phrase": "transcript of an interview",
+          "example": "They analyzed the transcript of the interview for key themes."
+        }
+      ],
+      "forms": [
+        {
+          "word": "transcribe",
+          "type": "v",
+          "example": "It took hours to transcribe all the audio recordings."
+        },
+        {
+          "word": "transcription",
+          "type": "n",
+          "example": "The transcription of ancient manuscripts requires specialized skills."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "scrib",
+    "meaning": "viết (to write)",
+    "table": [
+      {
+        "prefix": "de-",
+        "prefix_meaning": "hoàn toàn, xuống (completely, down)",
+        "result": "describe (viết ra hoàn chỉnh, mô tả)"
+      },
+      {
+        "prefix": "sub-",
+        "prefix_meaning": "dưới (under)",
+        "result": "subscribe (viết tên xuống dưới, đăng ký)"
+      },
+      {
+        "prefix": "pre-",
+        "prefix_meaning": "trước (before)",
+        "result": "prescribe (viết trước, kê đơn/ra lệnh)"
+      },
+      {
+        "prefix": "in-",
+        "prefix_meaning": "vào, trên (in, on)",
+        "result": "inscribe (viết/khắc vào bề mặt)"
+      },
+      {
+        "prefix": "trans-",
+        "prefix_meaning": "xuyên qua, chuyển đổi (across, change)",
+        "result": "transcript (bản đã được viết/chuyển đổi thành văn bản)"
+      },
+      {
+        "suffix": "-tion",
+        "suffix_meaning": "hành động, kết quả (action, result)",
+        "result": "description, subscription, prescription, inscription, transcription"
+      },
+      {
+        "suffix": "-er",
+        "suffix_meaning": "người làm (person who does)",
+        "result": "subscriber"
+      },
+      {
+        "suffix": "-ive",
+        "suffix_meaning": "có tính chất (having the quality of)",
+        "result": "descriptive, prescriptive"
+      }
+    ]
+  }
+}

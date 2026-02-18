@@ -1,0 +1,301 @@
+{
+  "id": "duct",
+  "type": "root",
+  "meaning": "to lead, to draw",
+  "origin": "Latin: ducere (to lead), ductus (past participle stem)",
+  "explanation": "The root **duct** comes from the Latin verb *ducere*, meaning **\"to lead\"** or **\"to draw\"**. This core meaning is evident in English words where it refers to guiding, directing, or bringing something along a path, often implying movement or formation.",
+  "level_note": "This root is found in words across B1, B2, and C1 CEFR levels, often combining with common prefixes.",
+  "words": [
+    {
+      "word": "conduct",
+      "level": "B1",
+      "breakdown": "con- + duct",
+      "parts": [
+        {
+          "part": "con-",
+          "meaning": "cùng nhau, với (together, with)"
+        },
+        {
+          "part": "duct",
+          "meaning": "dẫn dắt (to lead)"
+        }
+      ],
+      "logic": "Con- (cùng nhau/với) + duct (dẫn dắt) = dẫn dắt cùng nhau, thực hiện một nhiệm vụ, hoặc cách thức ai đó cư xử/dẫn dắt bản thân.",
+      "meaning_vi": "thực hiện, tiến hành; cư xử; dẫn (nhiệt, điện)",
+      "meaning_en": "to organize and carry out; to behave in a particular way; to transmit (heat, electricity)",
+      "example": "The committee decided to conduct a full investigation into the matter.",
+      "collocations": [
+        {
+          "phrase": "conduct an experiment",
+          "example": "Scientists will conduct an experiment to test the new hypothesis."
+        },
+        {
+          "phrase": "conduct business",
+          "example": "We aim to conduct business ethically and responsibly."
+        },
+        {
+          "phrase": "conduct oneself",
+          "example": "Students are expected to conduct themselves respectfully on campus."
+        }
+      ],
+      "forms": [
+        {
+          "word": "conduct",
+          "type": "n",
+          "example": "His conduct during the meeting was exemplary."
+        },
+        {
+          "word": "conductor",
+          "type": "n",
+          "example": "The orchestra conductor raised his baton."
+        },
+        {
+          "word": "conduction",
+          "type": "n",
+          "example": "Heat conduction is faster in metals than in wood."
+        }
+      ]
+    },
+    {
+      "word": "produce",
+      "level": "B1",
+      "breakdown": "pro- + duce",
+      "parts": [
+        {
+          "part": "pro-",
+          "meaning": "về phía trước (forward)"
+        },
+        {
+          "part": "duce",
+          "meaning": "dẫn dắt (to lead)"
+        }
+      ],
+      "logic": "Pro- (về phía trước) + duce (dẫn dắt) = dẫn dắt ra phía trước, tạo ra cái gì đó mới, hoặc làm cho nó hiện ra.",
+      "meaning_vi": "sản xuất, tạo ra; trưng ra, trình ra",
+      "meaning_en": "to make or create something; to bring something into existence; to show or present something",
+      "example": "This factory can produce over a thousand units per day.",
+      "collocations": [
+        {
+          "phrase": "produce evidence",
+          "example": "The lawyer was asked to produce evidence to support his claims."
+        },
+        {
+          "phrase": "produce results",
+          "example": "Hard work and dedication always produce positive results."
+        },
+        {
+          "phrase": "produce a document",
+          "example": "You need to produce a valid ID to enter the building."
+        }
+      ],
+      "forms": [
+        {
+          "word": "product",
+          "type": "n",
+          "example": "Their latest product is a revolutionary smartphone."
+        },
+        {
+          "word": "producer",
+          "type": "n",
+          "example": "The film producer oversaw the entire movie-making process."
+        },
+        {
+          "word": "production",
+          "type": "n",
+          "example": "The new car model went into full production last month."
+        }
+      ]
+    },
+    {
+      "word": "introduce",
+      "level": "B1",
+      "breakdown": "intro- + duce",
+      "parts": [
+        {
+          "part": "intro-",
+          "meaning": "vào trong (into, inward)"
+        },
+        {
+          "part": "duce",
+          "meaning": "dẫn dắt (to lead)"
+        }
+      ],
+      "logic": "Intro- (vào trong) + duce (dẫn dắt) = dẫn dắt vào trong, tức là giới thiệu một người hoặc một ý tưởng mới, hoặc đưa vào sử dụng.",
+      "meaning_vi": "giới thiệu; đưa vào; bắt đầu (sử dụng)",
+      "meaning_en": "to present someone or something for the first time; to bring into use or existence",
+      "example": "Let me introduce you to my colleague, Sarah.",
+      "collocations": [
+        {
+          "phrase": "introduce a topic",
+          "example": "The speaker will introduce a new topic for discussion at the conference."
+        },
+        {
+          "phrase": "introduce a new system",
+          "example": "The company plans to introduce a new system for managing customer data."
+        },
+        {
+          "phrase": "introduce yourself",
+          "example": "It's good manners to introduce yourself to new neighbors."
+        }
+      ],
+      "forms": [
+        {
+          "word": "introduction",
+          "type": "n",
+          "example": "The introduction of the book provides a good overview."
+        },
+        {
+          "word": "introductory",
+          "type": "adj",
+          "example": "He gave an introductory speech before the main presentation."
+        },
+        {
+          "word": "introducer",
+          "type": "n",
+          "example": "The introducer briefly highlighted the speaker's achievements."
+        }
+      ]
+    },
+    {
+      "word": "deduct",
+      "level": "B2",
+      "breakdown": "de- + duct",
+      "parts": [
+        {
+          "part": "de-",
+          "meaning": "xuống, đi khỏi (down, away from)"
+        },
+        {
+          "part": "duct",
+          "meaning": "dẫn dắt (to lead)"
+        }
+      ],
+      "logic": "De- (xuống/đi khỏi) + duct (dẫn dắt) = dẫn dắt đi xuống hoặc đi khỏi, tức là trừ đi, bớt đi một phần từ tổng số.",
+      "meaning_vi": "khấu trừ, trừ đi",
+      "meaning_en": "to take away an amount or part from a total",
+      "example": "The company will deduct a certain amount from your salary for taxes.",
+      "collocations": [
+        {
+          "phrase": "deduct expenses",
+          "example": "You can often deduct business expenses from your taxable income."
+        },
+        {
+          "phrase": "deduct points",
+          "example": "The teacher might deduct points for late homework submissions."
+        },
+        {
+          "phrase": "deduct from a total",
+          "example": "Please deduct the cost of shipping from the total payment."
+        }
+      ],
+      "forms": [
+        {
+          "word": "deduction",
+          "type": "n",
+          "example": "Tax deductions can significantly lower your tax bill."
+        },
+        {
+          "word": "deductible",
+          "type": "adj",
+          "example": "This expense is tax-deductible."
+        },
+        {
+          "word": "deductible",
+          "type": "n",
+          "example": "My insurance policy has a $1000 deductible."
+        }
+      ]
+    },
+    {
+      "word": "abduct",
+      "level": "C1",
+      "breakdown": "ab- + duct",
+      "parts": [
+        {
+          "part": "ab-",
+          "meaning": "khỏi, xa khỏi (away from)"
+        },
+        {
+          "part": "duct",
+          "meaning": "dẫn dắt (to lead)"
+        }
+      ],
+      "logic": "Ab- (khỏi/xa khỏi) + duct (dẫn dắt) = dẫn dắt đi xa khỏi một cách trái phép, thường là dùng vũ lực hoặc lừa gạt.",
+      "meaning_vi": "bắt cóc (người), cuỗm đi",
+      "meaning_en": "to take someone away illegally by force; to kidnap",
+      "example": "Police are investigating reports that a child was abducted from the playground.",
+      "collocations": [
+        {
+          "phrase": "abduct a victim",
+          "example": "The criminals attempted to abduct a victim for ransom."
+        },
+        {
+          "phrase": "abduct by force",
+          "example": "The suspect was accused of trying to abduct the person by force."
+        },
+        {
+          "phrase": "report an abduction",
+          "example": "The family immediately reported the abduction to the authorities."
+        }
+      ],
+      "forms": [
+        {
+          "word": "abduction",
+          "type": "n",
+          "example": "The abduction case made headlines across the country."
+        },
+        {
+          "word": "abductor",
+          "type": "n",
+          "example": "The abductor was identified through security camera footage."
+        },
+        {
+          "word": "abducted",
+          "type": "adj",
+          "example": "The abducted children were found safe after a week-long search."
+        }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "duct",
+    "meaning": "dẫn dắt, kéo (to lead, to draw)",
+    "table": [
+      {
+        "prefix": "con-",
+        "prefix_meaning": "cùng nhau, với",
+        "result": "conduct"
+      },
+      {
+        "prefix": "pro-",
+        "prefix_meaning": "về phía trước",
+        "result": "produce"
+      },
+      {
+        "prefix": "de-",
+        "prefix_meaning": "xuống, đi khỏi",
+        "result": "deduct"
+      },
+      {
+        "prefix": "intro-",
+        "prefix_meaning": "vào trong",
+        "result": "introduce"
+      },
+      {
+        "prefix": "ab-",
+        "prefix_meaning": "khỏi, xa khỏi",
+        "result": "abduct"
+      },
+      {
+        "suffix": "-or",
+        "suffix_meaning": "người/vật thực hiện",
+        "result": "conductor, producer"
+      },
+      {
+        "suffix": "-ion",
+        "suffix_meaning": "hành động/trạng thái",
+        "result": "conduction, production, deduction, introduction, abduction"
+      }
+    ]
+  }
+}
