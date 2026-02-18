@@ -1,0 +1,135 @@
+{
+  "id": "struct",
+  "type": "root",
+  "meaning": "build / construct",
+  "origin": "Latin: struere",
+  "explanation": "The root **struct** comes from Latin *struere*, meaning **to build** or **to arrange**. It forms the foundation of many English words related to building, organizing, and arranging things — both physical structures and abstract concepts like instructions or arguments.",
+  "level_note": "Words with STRUCT span from B1 (construct, structure) to C1 (obstruct, infrastructure)",
+  "words": [
+    {
+      "word": "construct",
+      "level": "B1",
+      "breakdown": "con- + struct",
+      "parts": [
+        { "part": "con-", "meaning": "cùng nhau / hoàn toàn (together / completely)" },
+        { "part": "struct", "meaning": "xây dựng (build)" }
+      ],
+      "logic": "xây dựng hoàn chỉnh",
+      "meaning_vi": "xây dựng",
+      "meaning_en": "to build or make something",
+      "example": "They constructed a new bridge last year.",
+      "collocations": [
+        { "phrase": "construct a building", "example": "The company constructed a factory." },
+        { "phrase": "construct a plan", "example": "She constructed a clear plan." },
+        { "phrase": "well-constructed essay", "example": "He wrote a well-constructed essay." }
+      ],
+      "forms": [
+        { "word": "construction", "type": "n", "example": "Bridge construction takes two years." },
+        { "word": "constructor", "type": "n", "example": "The constructor finished the project early." }
+      ]
+    },
+    {
+      "word": "structure",
+      "level": "B1",
+      "breakdown": "struct + -ure",
+      "parts": [
+        { "part": "struct", "meaning": "xây dựng (build)" },
+        { "part": "-ure", "meaning": "kết quả / quá trình (result / process)" }
+      ],
+      "logic": "thứ được xây dựng → cấu trúc",
+      "meaning_vi": "cấu trúc",
+      "meaning_en": "the way something is built or organized",
+      "example": "The structure of the report is clear.",
+      "collocations": [
+        { "phrase": "organizational structure", "example": "The company changed its organizational structure." },
+        { "phrase": "sentence structure", "example": "Students must improve sentence structure." },
+        { "phrase": "social structure", "example": "Education affects social structure." }
+      ],
+      "forms": [
+        { "word": "structural", "type": "adj", "example": "The building has structural damage." },
+        { "word": "structurally", "type": "adv", "example": "The house is structurally safe." }
+      ]
+    },
+    {
+      "word": "destruction",
+      "level": "B2",
+      "breakdown": "de- + struct + -ion",
+      "parts": [
+        { "part": "de-", "meaning": "tháo bỏ / phá bỏ (undo / remove)" },
+        { "part": "struct", "meaning": "xây dựng (build)" },
+        { "part": "-ion", "meaning": "danh từ hành động (action noun)" }
+      ],
+      "logic": "phá cấu trúc → phá hủy",
+      "meaning_vi": "sự phá hủy",
+      "meaning_en": "the act of destroying something",
+      "example": "The storm caused massive destruction.",
+      "collocations": [
+        { "phrase": "cause destruction", "example": "The war caused serious destruction." },
+        { "phrase": "total destruction", "example": "The fire led to total destruction." },
+        { "phrase": "weapons of destruction", "example": "The country banned weapons of destruction." }
+      ],
+      "forms": [
+        { "word": "destroy", "type": "v", "example": "The fire destroyed the building." },
+        { "word": "destructive", "type": "adj", "example": "Smoking is destructive to health." }
+      ]
+    },
+    {
+      "word": "instruct",
+      "level": "B2",
+      "breakdown": "in- + struct",
+      "parts": [
+        { "part": "in-", "meaning": "vào bên trong (into)" },
+        { "part": "struct", "meaning": "xây dựng (build)" }
+      ],
+      "logic": "\"xây dựng bên trong\" ai đó → truyền kiến thức → hướng dẫn",
+      "meaning_vi": "hướng dẫn",
+      "meaning_en": "to tell someone what to do",
+      "example": "The teacher instructed students to be quiet.",
+      "collocations": [
+        { "phrase": "instruct someone to do something", "example": "He instructed me to wait." },
+        { "phrase": "follow instructions", "example": "Always follow instructions carefully." },
+        { "phrase": "clear instructions", "example": "The app provides clear instructions." }
+      ],
+      "forms": [
+        { "word": "instruction", "type": "n", "example": "Read the instructions first." },
+        { "word": "instructor", "type": "n", "example": "The instructor explained the lesson clearly." },
+        { "word": "instructional", "type": "adj", "example": "This is an instructional video." }
+      ]
+    },
+    {
+      "word": "obstruct",
+      "level": "C1",
+      "breakdown": "ob- + struct",
+      "parts": [
+        { "part": "ob-", "meaning": "chống lại / phía trước (against / in front of)" },
+        { "part": "struct", "meaning": "xây dựng (build)" }
+      ],
+      "logic": "xây dựng thứ chắn phía trước → cản trở",
+      "meaning_vi": "cản trở",
+      "meaning_en": "to block or get in the way of",
+      "example": "Fallen trees obstructed the road.",
+      "collocations": [
+        { "phrase": "obstruct traffic", "example": "The accident obstructed traffic." },
+        { "phrase": "obstruct justice", "example": "He was accused of obstructing justice." },
+        { "phrase": "partially obstructed view", "example": "We had a partially obstructed view." }
+      ],
+      "forms": [
+        { "word": "obstruction", "type": "n", "example": "There was an obstruction in the pipe." },
+        { "word": "obstructive", "type": "adj", "example": "He was obstructive during the meeting." }
+      ]
+    }
+  ],
+  "memory_logic": {
+    "root": "struct",
+    "meaning": "build",
+    "table": [
+      { "prefix": "con-", "prefix_meaning": "cùng / hoàn toàn", "result": "construct" },
+      { "prefix": "de-", "prefix_meaning": "phá bỏ", "result": "destroy / destruction" },
+      { "prefix": "in-", "prefix_meaning": "xây bên trong", "result": "instruct" },
+      { "prefix": "ob-", "prefix_meaning": "chắn phía trước", "result": "obstruct" },
+      { "suffix": "-ion", "suffix_meaning": "danh từ hành động", "result": "construction, destruction" },
+      { "suffix": "-or", "suffix_meaning": "người", "result": "instructor" },
+      { "suffix": "-al", "suffix_meaning": "tính từ", "result": "structural" }
+    ]
+  }
+}

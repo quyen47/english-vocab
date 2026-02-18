@@ -1,0 +1,14 @@
+[
+  { "id": "struct", "type": "root", "meaning": "build / construct" },
+  { "id": "port", "type": "root", "meaning": "carry / transport" },
+  { "id": "spect", "type": "root", "meaning": "look / see" },
+  { "id": "dict", "type": "root", "meaning": "speak / say" },
+  { "id": "pre", "type": "prefix", "meaning": "before" },
+  { "id": "un", "type": "prefix", "meaning": "not / opposite" },
+  { "id": "re", "type": "prefix", "meaning": "again / back" },
+  { "id": "mis", "type": "prefix", "meaning": "wrong / badly" },
+  { "id": "tion", "type": "suffix", "meaning": "noun (action/state)" },
+  { "id": "ment", "type": "suffix", "meaning": "noun (result/process)" },
+  { "id": "able", "type": "suffix", "meaning": "adjective (capable of)" },
+  { "id": "ful", "type": "suffix", "meaning": "adjective (full of)" }
+]
