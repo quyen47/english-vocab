@@ -1,0 +1,152 @@
+{
+  "name": "English Vocab Generator",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "generate-vocab",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-trigger",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [220, 300],
+      "webhookId": "generate-vocab"
+    },
+    {
+      "parameters": {
+        "resource": "chat",
+        "model": {
+          "__rl": true,
+          "mode": "list",
+          "value": "gpt-4o-mini"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=You are an expert English language teacher specializing in etymology and morphology. You help Vietnamese learners understand English vocabulary through word roots, prefixes, and suffixes.\n\nGenerate vocabulary content for the {{ $json.body.type }} \"{{ $json.body.morpheme }}\".\n\nRules:\n1. Generate 4-6 common English words that use this {{ $json.body.type }}.\n2. Group words by CEFR level (B1, B2, C1).\n3. For each word, provide:\n   - Morphological breakdown (e.g., \"con- + struct\")\n   - Each part's meaning in Vietnamese + English\n   - A logic chain explaining how the parts combine to form the meaning (in Vietnamese)\n   - English meaning + Vietnamese translation\n   - One clear example sentence\n   - 3 common collocations with example sentences\n   - 2-3 word forms (noun, verb, adj, adv) with example sentences\n4. Create a memory logic table summarizing how each prefix/suffix combines with the {{ $json.body.type }}.\n\nYou MUST respond with ONLY valid JSON (no markdown, no explanation outside JSON). Use this exact structure:\n\n{\n  \"id\": \"{{ $json.body.morpheme }}\",\n  \"type\": \"{{ $json.body.type }}\",\n  \"meaning\": \"<core meaning in English, e.g. 'build / construct'>\",\n  \"origin\": \"<etymology, e.g. 'Latin: struere'>\",\n  \"explanation\": \"<2-3 sentence explanation using **bold** for key terms and *italic* for Latin/Greek words>\",\n  \"level_note\": \"<one line noting CEFR level range>\",\n  \"words\": [\n    {\n      \"word\": \"<the vocabulary word>\",\n      \"level\": \"B1\",\n      \"breakdown\": \"<e.g. con- + struct>\",\n      \"parts\": [\n        { \"part\": \"<prefix/root/suffix>\", \"meaning\": \"<Vietnamese meaning> (<English meaning>)\" }\n      ],\n      \"logic\": \"<Vietnamese logic chain>\",\n      \"meaning_vi\": \"<Vietnamese meaning>\",\n      \"meaning_en\": \"<English meaning>\",\n      \"example\": \"<example sentence>\",\n      \"collocations\": [\n        { \"phrase\": \"<collocation>\", \"example\": \"<example sentence>\" }\n      ],\n      \"forms\": [\n        { \"word\": \"<word form>\", \"type\": \"<n|v|adj|adv>\", \"example\": \"<example sentence>\" }\n      ]\n    }\n  ],\n  \"memory_logic\": {\n    \"root\": \"{{ $json.body.morpheme }}\",\n    \"meaning\": \"<core meaning>\",\n    \"table\": [\n      { \"prefix\": \"<prefix used>\", \"prefix_meaning\": \"<Vietnamese meaning>\", \"result\": \"<resulting word>\" },\n      { \"suffix\": \"<suffix used>\", \"suffix_meaning\": \"<Vietnamese meaning>\", \"result\": \"<resulting word(s)>\" }\n    ]\n  }\n}\n\nIMPORTANT:\n- All Vietnamese text must use proper diacritics (e.g., xây dựng, hướng dẫn, cấu trúc)\n- Respond with ONLY the JSON object, no other text\n- The memory_logic.table should have entries for prefixes (with \"prefix\" and \"prefix_meaning\" keys) and suffixes (with \"suffix\" and \"suffix_meaning\" keys), each with a \"result\" key",
+              "role": "user"
+            }
+          ]
+        },
+        "options": {
+          "temperature": 0.3,
+          "maxTokens": 4096,
+          "responseFormat": "json_object"
+        }
+      },
+      "id": "openai-chat",
+      "name": "OpenAI - Generate Vocab",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1.8,
+      "position": [460, 300],
+      "credentials": {
+        "openAiApi": {
+          "id": "",
+          "name": "OpenAI API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse the OpenAI response and extract the JSON\nconst input = $input.first();\nlet content;\n\ntry {\n  // The OpenAI node returns the message content\n  const rawText = input.json.message?.content || input.json.text || JSON.stringify(input.json);\n  \n  // Try to parse as JSON\n  if (typeof rawText === 'string') {\n    // Remove any markdown code fences if present\n    const cleaned = rawText.replace(/```json\\n?/g, '').replace(/```\\n?/g, '').trim();\n    content = JSON.parse(cleaned);\n  } else {\n    content = rawText;\n  }\n} catch (e) {\n  // If parsing fails, try to extract JSON from the text\n  const text = input.json.message?.content || input.json.text || '';\n  const jsonMatch = text.match(/\\{[\\s\\S]*\\}/);\n  if (jsonMatch) {\n    content = JSON.parse(jsonMatch[0]);\n  } else {\n    throw new Error('Could not parse OpenAI response as JSON: ' + text.substring(0, 200));\n  }\n}\n\n// Validate required fields\nif (!content.id || !content.type || !content.words || !content.memory_logic) {\n  throw new Error('Generated JSON is missing required fields (id, type, words, memory_logic)');\n}\n\nreturn [{ json: content }];"
+      },
+      "id": "code-parse",
+      "name": "Parse & Validate JSON",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [700, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}",
+        "options": {
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Type",
+                "value": "application/json"
+              }
+            ]
+          }
+        }
+      },
+      "id": "respond-success",
+      "name": "Respond Success",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [940, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify({ error: $json.message || 'Generation failed' }) }}",
+        "options": {
+          "responseCode": 500,
+          "responseHeaders": {
+            "entries": [
+              {
+                "name": "Content-Type",
+                "value": "application/json"
+              }
+            ]
+          }
+        }
+      },
+      "id": "respond-error",
+      "name": "Respond Error",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [940, 520]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "OpenAI - Generate Vocab",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI - Generate Vocab": {
+      "main": [
+        [
+          {
+            "node": "Parse & Validate JSON",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse & Validate JSON": {
+      "main": [
+        [
+          {
+            "node": "Respond Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "errorWorkflow": ""
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "name": "English Vocab"
+    }
+  ],
+  "pinData": {}
+}
